@@ -1,0 +1,2202 @@
+[
+  {
+    "numero": 1,
+    "pregunta": "¿Cuál de las siguientes afirmaciones sobre el Procedimiento Normalizado de Trabajo (PNT) NO es correcta?",
+    "respuestas": [
+      "Sirve para estandarizar operaciones y garantizar seguridad.",
+      "Sustituye la formación del personal.",
+      "Incluye instrucciones detalladas para realizar tareas.",
+      "Facilita la reproducibilidad de los resultados."
+    ],
+    "correcta": 1
+  },
+  {
+    "numero": 2,
+    "pregunta": "¿Cuál de las siguientes NO es una ventaja de utilizar material desechable en el laboratorio?",
+    "respuestas": [
+      "Reduce el riesgo de contaminación cruzada.",
+      "Evita la necesidad de limpieza y esterilización.",
+      "Disminuye el tiempo de preparación de experimentos.",
+      "Es siempre más económico que el material reutilizable."
+    ],
+    "correcta": 3
+  },
+  {
+    "numero": 3,
+    "pregunta": "En relación con la gestión de riesgos en el laboratorio, señale la opción que describe correctamente un riesgo químico y lo diferencia de otros tipos de riesgo presentes en el entorno laboral:",
+    "respuestas": [
+      "La posibilidad de sufrir cortes por manipulación de vidrio roto.",
+      "La exposición a vapores tóxicos derivados de sustancias volátiles utilizadas en procedimientos analíticos.",
+      "La caída por suelos mojados en la zona de lavado de material.",
+      "La sobrecarga postural por mantenimiento prolongado de la bipedestación."
+    ],
+    "correcta": 1
+  },
+  {
+    "numero": 4,
+    "pregunta": "Los residuos químicos peligrosos deben:",
+    "respuestas": [
+      "Eliminarse por el desagüe con abundante agua.",
+      "Mezclarse todos en el mismo contenedor.",
+      "Gestionarse según su naturaleza y normativa vigente.",
+      "Tirarse a la basura común si están diluidos."
+    ],
+    "correcta": 2
+  },
+  {
+    "numero": 5,
+    "pregunta": "¿Cuál de las siguientes afirmaciones sobre la Ficha de Datos de Seguridad (FDS) NO es correcta?",
+    "respuestas": [
+      "Contiene información sobre riesgos, manejo y almacenamiento de sustancias químicas.",
+      "Sustituye los procedimientos internos de trabajo del laboratorio.",
+      "Indica medidas de protección personal y primeros auxilios.",
+      "Incluye instrucciones para la gestión de residuos."
+    ],
+    "correcta": 1
+  },
+  {
+    "numero": 6,
+    "pregunta": "La señalización de seguridad en el laboratorio tiene como objetivo:",
+    "respuestas": [
+      "Decorar las instalaciones.",
+      "Sustituir la formación en riesgos.",
+      "Informar y advertir sobre peligros y normas.",
+      "Identificar los productos inflamables."
+    ],
+    "correcta": 2
+  },
+  {
+    "numero": 7,
+    "pregunta": "El vidrio borosilicatado se utiliza porque:",
+    "respuestas": [
+      "Es desechable.",
+      "Resiste cambios bruscos de temperatura.",
+      "Es decorativo.",
+      "Es más barato que el plástico."
+    ],
+    "correcta": 1
+  },
+  {
+    "numero": 8,
+    "pregunta": "¿Cuál de los siguientes elementos se considera material fungible?",
+    "respuestas": [
+      "Balanza analítica.",
+      "Centrífuga.",
+      "Pipeta Pasteur de plástico.",
+      "Estufa."
+    ],
+    "correcta": 2
+  },
+  {
+    "numero": 9,
+    "pregunta": "En caso de salpicadura accidental de una sustancia corrosiva en los ojos durante la manipulación de reactivos, la instalación específica diseñada para minimizar el daño tisular inmediato es:",
+    "respuestas": [
+      "La ducha de seguridad.",
+      "El extintor de CO₂.",
+      "El lavaojos con suministro continuo de agua.",
+      "La campana extractora de gases."
+    ],
+    "correcta": 2
+  },
+  {
+    "numero": 10,
+    "pregunta": "¿Cuál de los siguientes es material inventariable?",
+    "respuestas": [
+      "Papel de filtro.",
+      "Tubo de ensayo.",
+      "Agitador magnético.",
+      "Guantes."
+    ],
+    "correcta": 2
+  },
+  {
+    "numero": 11,
+    "pregunta": "El uso de material metálico está limitado cuando:",
+    "respuestas": [
+      "Se emplean sustancias corrosivas.",
+      "Se trabaja con agua.",
+      "Se filtran sólidos.",
+      "Se pesa en balanza."
+    ],
+    "correcta": 0
+  },
+  {
+    "numero": 12,
+    "pregunta": "Las placas calefactoras se clasifican como:",
+    "respuestas": [
+      "Material fungible.",
+      "Equipos de calor.",
+      "Equipos de frío.",
+      "Material volumétrico."
+    ],
+    "correcta": 1
+  },
+  {
+    "numero": 13,
+    "pregunta": "En la clasificación del utillaje de laboratorio, se considera material fungible aquel que:",
+    "respuestas": [
+      "Está destinado a un solo uso o a usos limitados y no se amortiza como equipo.",
+      "Solo puede ser de vidrio borosilicatado.",
+      "Forma parte del inventario permanente del laboratorio.",
+      "Requiere calibración periódica y registro documental."
+    ],
+    "correcta": 0
+  },
+  {
+    "numero": 14,
+    "pregunta": "El material más preciso para medir un volumen fijo es:",
+    "respuestas": [
+      "Vaso de precipitados.",
+      "Probeta.",
+      "Matraz aforado.",
+      "Erlenmeyer."
+    ],
+    "correcta": 2
+  },
+  {
+    "numero": 15,
+    "pregunta": "La lectura correcta del volumen se realiza:",
+    "respuestas": [
+      "Desde arriba.",
+      "Desde abajo.",
+      "A la altura del menisco.",
+      "Sin importar la posición."
+    ],
+    "correcta": 2
+  },
+  {
+    "numero": 16,
+    "pregunta": "La tara en una balanza sirve para:",
+    "respuestas": [
+      "Apagarla.",
+      "Encenderla.",
+      "Para quitar el peso del recipiente.",
+      "Aumentar la precisión."
+    ],
+    "correcta": 2
+  },
+  {
+    "numero": 17,
+    "pregunta": "¿Cuál NO es material volumétrico?",
+    "respuestas": [
+      "Pipeta aforada.",
+      "Bureta.",
+      "Probeta.",
+      "Erlenmeyer."
+    ],
+    "correcta": 3
+  },
+  {
+    "numero": 18,
+    "pregunta": "El error sistemático se caracteriza por:",
+    "respuestas": [
+      "Variar aleatoriamente.",
+      "Ser impredecible.",
+      "Repetirse de forma constante.",
+      "No afectar a los resultados."
+    ],
+    "correcta": 2
+  },
+  {
+    "numero": 19,
+    "pregunta": "El material de vidrio debe lavarse preferentemente con:",
+    "respuestas": [
+      "Disolvente orgánico.",
+      "Agua y detergente.",
+      "Solo agua fría.",
+      "Ácido concentrado."
+    ],
+    "correcta": 1
+  },
+  {
+    "numero": 20,
+    "pregunta": "Cuando se requiere determinar la masa de un reactivo con elevada exactitud para preparar una disolución patrón, el equipo adecuado será:",
+    "respuestas": [
+      "Balanza con sensibilidad de 0,1 g.",
+      "Balanza analítica con sensibilidad de miligramos o inferior.",
+      "Báscula industrial de plataforma.",
+      "Probeta graduada de precisión."
+    ],
+    "correcta": 1
+  },
+  {
+    "numero": 21,
+    "pregunta": "El material desechable debe:",
+    "respuestas": [
+      "Reutilizarse tras lavado.",
+      "Esterilizarse.",
+      "Eliminarse tras su uso.",
+      "Guardarse indefinidamente."
+    ],
+    "correcta": 2
+  },
+  {
+    "numero": 22,
+    "pregunta": "La limpieza incorrecta puede provocar:",
+    "respuestas": [
+      "Mayor precisión.",
+      "Contaminación cruzada.",
+      "Ahorro de reactivos.",
+      "Mejora del rendimiento."
+    ],
+    "correcta": 1
+  },
+  {
+    "numero": 23,
+    "pregunta": "El mantenimiento del material inventariable incluye:",
+    "respuestas": [
+      "Revisiones periódicas.",
+      "Tirarlo cuando falle.",
+      "Lavarlo en lavavajillas doméstico.",
+      "No usarlo."
+    ],
+    "correcta": 0
+  },
+  {
+    "numero": 24,
+    "pregunta": "Durante la medición de un volumen en material volumétrico calibrado, la lectura correcta debe realizarse:",
+    "respuestas": [
+      "Observando la parte superior del menisco desde una posición elevada.",
+      "Alineando la vista a la altura del menisco y considerando su parte inferior.",
+      "Desde cualquier ángulo siempre que el recipiente esté sobre superficie horizontal.",
+      "Considerando el borde del recipiente como referencia."
+    ],
+    "correcta": 1
+  },
+  {
+    "numero": 25,
+    "pregunta": "La Farmacopea establece, entre otros aspectos:",
+    "respuestas": [
+      "Protocolos internos opcionales de cada laboratorio.",
+      "Únicamente precios de referencia de medicamentos.",
+      "Normativa laboral aplicable al personal sanitario.",
+      "Métodos oficiales de análisis, especificaciones de calidad y criterios de pureza de sustancias farmacéuticas."
+    ],
+    "correcta": 3
+  },
+  {
+    "numero": 26,
+    "pregunta": "¿Cuál es la definición legal de medicamento?",
+    "respuestas": [
+      "Toda sustancia con efecto biológico.",
+      "Sustancia destinada a prevenir o tratar enfermedades en humanos.",
+      "Producto sanitario de uso tópico.",
+      "Complemento alimenticio con acción terapéutica."
+    ],
+    "correcta": 1
+  },
+  {
+    "numero": 27,
+    "pregunta": "¿Qué organismo autoriza y registra los medicamentos en España?",
+    "respuestas": [
+      "Ministerio de Sanidad.",
+      "Consejo General de Farmacéuticos.",
+      "Agencia Española de Medicamentos y Productos Sanitarios (AEMPS).",
+      "Agencia Europea del Medicamento exclusivamente."
+    ],
+    "correcta": 2
+  },
+  {
+    "numero": 28,
+    "pregunta": "Respecto a la autorización y registro de medicamentos en España, señale la opción correcta:",
+    "respuestas": [
+      "Todo medicamento autorizado por procedimiento centralizado europeo debe registrarse posteriormente ante cada comunidad autónoma.",
+      "La autorización por la AEMPS implica evaluación de calidad, seguridad y eficacia conforme a normativa vigente.",
+      "Los medicamentos publicitarios no requieren autorización sanitaria previa.",
+      "La denominación común internacional sustituye legalmente al nombre comercial en el etiquetado."
+    ],
+    "correcta": 1
+  },
+  {
+    "numero": 29,
+    "pregunta": "La En el contexto de la indicación farmacéutica, la actuación correcta ante un síntoma menor con criterios de derivación es:",
+    "respuestas": [
+      "Recomendar tratamiento OTC y valorar evolución posterior.",
+      "Dispensar el medicamento más demandado por experiencia previa.",
+      "Derivar al médico sin dispensar tratamiento sintomático cuando concurran criterios de alarma.",
+      "Iniciar seguimiento farmacoterapéutico formal."
+    ],
+    "correcta": 2
+  },
+  {
+    "numero": 30,
+    "pregunta": "Un producto que contiene una sustancia con actividad farmacológica se presenta con indicación terapéutica y ha sido autorizado por la AEMPS, pero se comercializa con marca propia y nombre distinto al principio activo. ¿Cómo se clasifica correctamente?",
+    "respuestas": [
+      "Medicamento genérico.",
+      "Fórmula magistral.",
+      "Especialidad farmacéutica con marca comercial.",
+      "Producto sanitario con acción farmacológica."
+    ],
+    "correcta": 2
+  },
+  {
+    "numero": 31,
+    "pregunta": "¿Cuál de los siguientes medicamentos requiere receta médica obligatoria?",
+    "respuestas": [
+      "Medicamento publicitario.",
+      "Especialidad farmacéutica publicitaria.",
+      "Producto sanitario clase I.",
+      "Medicamento sujeto a prescripción."
+    ],
+    "correcta": 3
+  },
+  {
+    "numero": 32,
+    "pregunta": "La dispensación es:",
+    "respuestas": [
+      "La venta libre de cualquier producto.",
+      "El acto profesional de entrega de un medicamento con información adecuada.",
+      "La facturación de recetas.",
+      "El almacenamiento de medicamentos."
+    ],
+    "correcta": 1
+  },
+  {
+    "numero": 33,
+    "pregunta": "Un/Una paciente acude repetidamente a retirar un AINE sin receta alegando dolor crónico lumbar. El auxiliar detecta uso continuado y posible riesgo gastrointestinal. ¿Qué servicio profesional debería activarse prioritariamente?",
+    "respuestas": [
+      "Seguimiento farmacoterapéutico.",
+      "Venta libre supervisada.",
+      "Indicación farmacéutica continuada.",
+      "Educación sanitaria exclusivamente."
+    ],
+    "correcta": 0
+  },
+  {
+    "numero": 34,
+    "pregunta": "La indicación farmacéutica consiste en:",
+    "respuestas": [
+      "Prescribir medicamentos.",
+      "Recomendar tratamiento para síntomas menores.",
+      "Sustituir medicamentos prescritos.",
+      "Realizar seguimiento hospitalario."
+    ],
+    "correcta": 1
+  },
+  {
+    "numero": 35,
+    "pregunta": "El seguimiento farmacoterapéutico tiene como objetivo principal:",
+    "respuestas": [
+      "Incrementar ventas.",
+      "Sustituir al/a la médico/a.",
+      "Emitir recetas.",
+      "Detectar y resolver problemas relacionados con medicamentos."
+    ],
+    "correcta": 3
+  },
+  {
+    "numero": 36,
+    "pregunta": "La farmacovigilancia se encarga de:",
+    "respuestas": [
+      "Controlar precios.",
+      "Vigilar efectos adversos de medicamentos.",
+      "Gestionar stocks.",
+      "Autorizar medicamentos."
+    ],
+    "correcta": 1
+  },
+  {
+    "numero": 37,
+    "pregunta": "NO es condición para la dispensación válida:",
+    "respuestas": [
+      "Firma del farmacéutico.",
+      "Identificación del prescriptor.",
+      "Datos del paciente.",
+      "Fecha."
+    ],
+    "correcta": 0
+  },
+  {
+    "numero": 38,
+    "pregunta": "En una receta electrónica aparece un medicamento de marca sin indicación de “no sustituible”. Existe genérico con mismo principio activo, dosis y forma farmacéutica. ¿Qué actuación es correcta según normativa?",
+    "respuestas": [
+      "Dispensar obligatoriamente el medicamento de marca.",
+      "No dispensar hasta confirmación médica.",
+      "Sustituir solo si el paciente lo exige.",
+      "Sustituir por genérico equivalente informando al/a la paciente."
+    ],
+    "correcta": 3
+  },
+  {
+    "numero": 39,
+    "pregunta": "La sustitución de un medicamento se realiza cuando:",
+    "respuestas": [
+      "El/La paciente lo solicita siempre.",
+      "El/la auxiliar lo considere.",
+      "Exista medicamento genérico equivalente.",
+      "No haya receta."
+    ],
+    "correcta": 2
+  },
+  {
+    "numero": 40,
+    "pregunta": "¿Qué es imprescindible para poder dispensar un medicamento sujeto a prescripción?",
+    "respuestas": [
+      "Envase original.",
+      "Receta válida.",
+      "Código nacional.",
+      "Precio marcado."
+    ],
+    "correcta": 1
+  },
+  {
+    "numero": 41,
+    "pregunta": "El visado de inspección implica:",
+    "respuestas": [
+      "Control previo para determinados medicamentos.",
+      "Autorización del farmacéutico.",
+      "Sustitución automática.",
+      "Control de stock."
+    ],
+    "correcta": 0
+  },
+  {
+    "numero": 42,
+    "pregunta": "Ante una alerta sanitaria por retirada de lote, ¿qué herramienta permite localizar rápidamente qué pacientes han recibido ese medicamento concreto?",
+    "respuestas": [
+      "Libro recetario manual.",
+      "Registro posdispensación informatizado.",
+      "Archivo de facturación mensual.",
+      "Hoja de pedidos al distribuidor."
+    ],
+    "correcta": 1
+  },
+  {
+    "numero": 43,
+    "pregunta": "Las aplicaciones informáticas permiten:",
+    "respuestas": [
+      "Solo facturar.",
+      "Prescribir medicamentos.",
+      "Sustituir al farmacéutico.",
+      "Gestión integral de la farmacia."
+    ],
+    "correcta": 3
+  },
+  {
+    "numero": 44,
+    "pregunta": "NO es función del sistema informático:",
+    "respuestas": [
+      "Control de stock.",
+      "Registro de recetas.",
+      "Diagnóstico médico.",
+      "Gestión de pedidos."
+    ],
+    "correcta": 2
+  },
+  {
+    "numero": 45,
+    "pregunta": "¿Qué aspecto asegura la trazabilidad en el ámbito farmacéutico?",
+    "respuestas": [
+      "Venta rápida.",
+      "Seguimiento del medicamento desde fabricación hasta dispensación.",
+      "Publicidad.",
+      "Descuentos."
+    ],
+    "correcta": 1
+  },
+  {
+    "numero": 46,
+    "pregunta": "Un medicamento fotosensible en solución oral se envasa en frasco topacio dentro de caja con prospecto. ¿Cuál es la función principal del frasco topacio?",
+    "respuestas": [
+      "Facilitar la información al/a la paciente.",
+      "Mejorar la presentación comercial.",
+      "Proteger frente a la degradación por luz.",
+      "Actuar como acondicionamiento secundario."
+    ],
+    "correcta": 2
+  },
+  {
+    "numero": 47,
+    "pregunta": "La implantación del sistema de dosis unitaria se asocia fundamentalmente a:",
+    "respuestas": [
+      "Disminución de la carga asistencial médica.",
+      "Eliminación del control de stock en planta.",
+      "Sustitución del registro clínico.",
+      "Mejora de la seguridad del/de la paciente y reducción de errores de medicación."
+    ],
+    "correcta": 3
+  },
+  {
+    "numero": 48,
+    "pregunta": "Un sistema de cierre de seguridad infantil es un ejemplo de:",
+    "respuestas": [
+      "Acondicionamiento especial.",
+      "Forma farmacéutica.",
+      "Principio activo.",
+      "Registro sanitario."
+    ],
+    "correcta": 0
+  },
+  {
+    "numero": 49,
+    "pregunta": "NO forma parte del etiquetado obligatorio:",
+    "respuestas": [
+      "Nombre de la farmacia.",
+      "Fecha caducidad.",
+      "Lote.",
+      "Código nacional."
+    ],
+    "correcta": 0
+  },
+  {
+    "numero": 50,
+    "pregunta": "Un medicamento con intenso metabolismo hepático de primer paso busca efecto sistémico rápido y mayor biodisponibilidad. ¿Qué vía sería más adecuada?",
+    "respuestas": [
+      "Oral.",
+      "Rectal distal.",
+      "Sublingual.",
+      "Tópica."
+    ],
+    "correcta": 2
+  },
+  {
+    "numero": 51,
+    "pregunta": "La vía oral es:",
+    "respuestas": [
+      "Parenteral.",
+      "Enteral.",
+      "Tópica.",
+      "Inhalatoria."
+    ],
+    "correcta": 1
+  },
+  {
+    "numero": 52,
+    "pregunta": "Una forma farmacéutica sólida es:",
+    "respuestas": [
+      "Jarabe.",
+      "Suspensión.",
+      "Comprimido.",
+      "Solución inyectable."
+    ],
+    "correcta": 2
+  },
+  {
+    "numero": 53,
+    "pregunta": "NO es vía parenteral:",
+    "respuestas": [
+      "Intravenosa.",
+      "Intramuscular.",
+      "Subcutánea.",
+      "Oral."
+    ],
+    "correcta": 3
+  },
+  {
+    "numero": 54,
+    "pregunta": "Los supositorios se administran por vía:",
+    "respuestas": [
+      "Vaginal.",
+      "Rectal.",
+      "Oral.",
+      "Intradérmica."
+    ],
+    "correcta": 1
+  },
+  {
+    "numero": 55,
+    "pregunta": "La vía sublingual evita:",
+    "respuestas": [
+      "Disolución.",
+      "Absorción.",
+      "Efecto sistémico.",
+      "Primer paso hepático."
+    ],
+    "correcta": 3
+  },
+  {
+    "numero": 56,
+    "pregunta": "Un/Una paciente presenta disminución del efecto terapéutico tras semanas de tratamiento sin cambios de dosis. Desde el punto de vista farmacodinámico, este fenómeno puede explicarse por:",
+    "respuestas": [
+      "Aumento de absorción.",
+      "Tolerancia farmacológica.",
+      "Disminución de excreción renal.",
+      "Aumento de biodisponibilidad."
+    ],
+    "correcta": 1
+  },
+  {
+    "numero": 57,
+    "pregunta": "LADME significa:",
+    "respuestas": [
+      "Liberación, Administración, Dosis, Metabolismo, Eliminación.",
+      "Listado de medicamentos.",
+      "Acción dinámica molecular específica.",
+      "Liberación, Absorción, Distribución, Metabolismo y Excreción."
+    ],
+    "correcta": 3
+  },
+  {
+    "numero": 58,
+    "pregunta": "La farmacodinamia estudia:",
+    "respuestas": [
+      "Movimiento del fármaco en el organismo.",
+      "Efectos del fármaco y mecanismo de acción.",
+      "Precio del medicamento.",
+      "Registro sanitario."
+    ],
+    "correcta": 1
+  },
+  {
+    "numero": 59,
+    "pregunta": "En el sistema de distribución en dosis unitaria, la validación farmacéutica previa tiene como finalidad principal:",
+    "respuestas": [
+      "Reducir el coste de adquisición.",
+      "Sustituir la prescripción médica.",
+      "Verificar la adecuación, dosis e interacciones antes de la dispensación individualizada.",
+      "Agilizar la facturación hospitalaria"
+    ],
+    "correcta": 2
+  },
+  {
+    "numero": 60,
+    "pregunta": "NO es un problema relacionado con medicamentos (PRM):",
+    "respuestas": [
+      "Dosis incorrecta.",
+      "Interacción.",
+      "Uso adecuado.",
+      "Reacción adversa."
+    ],
+    "correcta": 2
+  },
+  {
+    "numero": 61,
+    "pregunta": "Ante una retirada urgente de un lote por defecto de calidad, la herramienta más eficaz para identificar dispensaciones previas es:",
+    "respuestas": [
+      "El libro oficial de estupefacientes.",
+      "El registro post-dispensación asociado al sistema informático de gestión.",
+      "El albarán del distribuidor.",
+      "El libro recetario manual sin soporte digital."
+    ],
+    "correcta": 1
+  },
+  {
+    "numero": 62,
+    "pregunta": "Dos medicamentos comparten los cuatro primeros niveles del código ATC pero difieren en el quinto. Esto indica que:",
+    "respuestas": [
+      "Son principios activos distintos dentro del mismo subgrupo químico.",
+      "Tienen distinta forma farmacéutica.",
+      "Actúan en distinto órgano.",
+      "Son el mismo principio activo con distinta marca."
+    ],
+    "correcta": 0
+  },
+  {
+    "numero": 63,
+    "pregunta": "El sistema ATC clasifica medicamentos según:",
+    "respuestas": [
+      "Precio.",
+      "Color.",
+      "Marca comercial.",
+      "Órgano o sistema y acción terapéutica."
+    ],
+    "correcta": 3
+  },
+  {
+    "numero": 64,
+    "pregunta": "En el proceso LADME, una alteración en la función hepática afectará principalmente a la fase de:",
+    "respuestas": [
+      "Liberación.",
+      "Absorción.",
+      "Metabolismo.",
+      "Excreción."
+    ],
+    "correcta": 2
+  },
+  {
+    "numero": 65,
+    "pregunta": "El código ATC tiene:",
+    "respuestas": [
+      "2 niveles.",
+      "5 niveles.",
+      "3 niveles",
+      "8 niveles."
+    ],
+    "correcta": 1
+  },
+  {
+    "numero": 66,
+    "pregunta": "Dos medicamentos con mismo código ATC final comparten:",
+    "respuestas": [
+      "Marca.",
+      "Precio.",
+      "Principio activo.",
+      "Laboratorio."
+    ],
+    "correcta": 2
+  },
+  {
+    "numero": 67,
+    "pregunta": "NO forma parte del sistema ATC:",
+    "respuestas": [
+      "Nivel anatómico.",
+      "Nivel terapéutico.",
+      "Nivel químico.",
+      "Nivel económico."
+    ],
+    "correcta": 3
+  },
+  {
+    "numero": 68,
+    "pregunta": "En un sistema de distribución en dosis unitaria, la principal ventaja frente al sistema tradicional es:",
+    "respuestas": [
+      "Reducción de carga administrativa.",
+      "Disminución del coste de adquisición.",
+      "Eliminación de errores médicos.",
+      "Mayor seguridad y control individualizado por paciente."
+    ],
+    "correcta": 3
+  },
+  {
+    "numero": 69,
+    "pregunta": "Se considera problema relacionado con medicamentos (PRM):",
+    "respuestas": [
+      "Uso de un medicamento indicado correctamente sin efectos adversos.",
+      "Falta de adherencia que compromete la efectividad del tratamiento.",
+      "Precio elevado del medicamento.",
+      "Existencia de genérico disponible."
+    ],
+    "correcta": 1
+  },
+  {
+    "numero": 70,
+    "pregunta": "La dispensación hospitalaria suele ser:",
+    "respuestas": [
+      "Individualizada por paciente.",
+      "Libre.",
+      "Sin registro.",
+      "Comercial."
+    ],
+    "correcta": 0
+  },
+  {
+    "numero": 71,
+    "pregunta": "NO es una función hospitalaria:",
+    "respuestas": [
+      "Elaboración de fórmulas.",
+      "Venta de cosméticos.",
+      "Gestión de stock.",
+      "Farmacovigilancia."
+    ],
+    "correcta": 1
+  },
+  {
+    "numero": 72,
+    "pregunta": "En relación con el sistema de distribución en dosis unitaria en farmacia hospitalaria, señale la opción correcta:",
+    "respuestas": [
+      "Permite la dispensación global por servicio clínico para varios días sin identificación individual.",
+      "Se basa en la preparación diaria de la medicación individualizada para cada paciente según prescripción médica.",
+      "Sustituye la validación farmacéutica previa de las prescripciones.",
+      "Elimina la necesidad de registros de administración en planta."
+    ],
+    "correcta": 1
+  },
+  {
+    "numero": 73,
+    "pregunta": "Según la clasificación ATC, el paracetamol pertenece principalmente al grupo:",
+    "respuestas": [
+      "A (Aparato digestivo y metabolismo).",
+      "C (Sistema cardiovascular).",
+      "N (Sistema nervioso).",
+      "J (Antiinfecciosos de uso sistémico)."
+    ],
+    "correcta": 2
+  },
+  {
+    "numero": 74,
+    "pregunta": "El omeprazol se clasifica en el sistema ATC dentro del grupo:",
+    "respuestas": [
+      "A (Aparato digestivo y metabolismo).",
+      "R (Sistema respiratorio).",
+      "J (Antiinfecciosos sistémicos).",
+      "C (Sistema cardiovascular)."
+    ],
+    "correcta": 0
+  },
+  {
+    "numero": 75,
+    "pregunta": "El ibuprofeno pertenece en la clasificación ATC al grupo:",
+    "respuestas": [
+      "N (Sistema nervioso).",
+      "M (Sistema musculoesquelético).",
+      "J (Antiinfecciosos sistémicos).",
+      "C (Sistema cardiovascular)."
+    ],
+    "correcta": 1
+  },
+  {
+    "numero": 76,
+    "pregunta": "La amoxicilina se clasifica en el grupo ATC:",
+    "respuestas": [
+      "R (Sistema respiratorio).",
+      "J (Antiinfecciosos para uso sistémico).",
+      "D (Dermatológicos).",
+      "H (Preparados hormonales sistémicos)."
+    ],
+    "correcta": 1
+  },
+  {
+    "numero": 77,
+    "pregunta": "El salbutamol pertenece al grupo ATC correspondiente a:",
+    "respuestas": [
+      "R (Sistema respiratorio).",
+      "C (Sistema cardiovascular).",
+      "N (Sistema nervioso).",
+      "A (Aparato digestivo y metabolismo)."
+    ],
+    "correcta": 0
+  },
+  {
+    "numero": 78,
+    "pregunta": "De acuerdo con el marco jurídico establecido en el Real Decreto 175/2001, que regula las normas de correcta elaboración y control de calidad de fórmulas magistrales y preparados oficinales, se entiende por fórmula magistral:",
+    "respuestas": [
+      "Un medicamento fabricado industrialmente en serie, con autorización de comercialización concedida por la autoridad sanitaria competente y destinado a su distribución en el circuito farmacéutico ordinario.",
+      "Un medicamento destinado a una persona paciente individualizado, preparado por el/la farmacéutico/a, o bajo su dirección y responsabilidad profesional, para dar cumplimiento a una prescripción facultativa concreta y específica para dicho paciente.",
+      "Una preparación descrita íntegramente en el Formulario Nacional que puede ser elaborada de forma estandarizada sin necesidad de prescripción individual.",
+      "Un producto sanitario elaborado en la oficina de farmacia conforme a las exigencias técnicas de la normativa de productos sanitarios."
+    ],
+    "correcta": 1
+  },
+  {
+    "numero": 79,
+    "pregunta": "Desde el punto de vista conceptual, el elemento que establece la diferencia más determinante entre fórmula magistral y preparado oficinal es:",
+    "respuestas": [
+      "La vía de administración prevista (oral, tópica, parenteral), en función de la forma farmacéutica adoptada.",
+      "La necesidad de que exista una prescripción médica individualizada dirigida a un/una paciente concreto/a como requisito para su elaboración.",
+      "El tipo de material de acondicionamiento primario utilizado ya sea vidrio topacio, polietileno u otro material compatible.",
+      "La obligación o no de incorporar conservantes antimicrobianos en función de la naturaleza del preparado."
+    ],
+    "correcta": 1
+  },
+  {
+    "numero": 80,
+    "pregunta": "Una preparación descrita en el Formulario Nacional, elaborada en la oficina de farmacia conforme a las normas de correcta elaboración, y destinada a su dispensación en condiciones reguladas, pero sin asignación previa a un/una paciente individualizado, se corresponde con:",
+    "respuestas": [
+      "Un medicamento de fabricación industrial sometido a procedimiento de autorización y farmacovigilancia centralizada.",
+      "Una preparación farmacéutica elaborada de forma individualizada, siguiendo una receta médica específica, destinada a un/una paciente determinado/a.",
+      "Un preparado oficinal, elaborado conforme a monografía oficial y susceptible de dispensación sin destinatario previamente identificado.",
+      "Un producto sanitario que requiere marcado CE y evaluación de conformidad."
+    ],
+    "correcta": 2
+  },
+  {
+    "numero": 81,
+    "pregunta": "En relación con el contenido y alcance del Formulario Nacional, puede afirmarse que incluye:",
+    "respuestas": [
+      "Fórmulas magistrales tipificadas cuya composición y procedimiento de elaboración han sido normalizados para facilitar su preparación.",
+      "Preparados oficinales descritos oficialmente, con indicación de su composición, procedimiento y controles básicos.",
+      "Exclusivamente fórmulas magistrales individualizadas que deben adaptarse siempre a cada paciente.",
+      "Las respuestas a) y b) son correctas."
+    ],
+    "correcta": 3
+  },
+  {
+    "numero": 82,
+    "pregunta": "En el ámbito de la formulación magistral desarrollada en oficina de farmacia comunitaria, las normas técnicas aplicables a la elaboración y control de calidad son principalmente:",
+    "respuestas": [
+      "Las Normas de Correcta Fabricación (GMP) aplicables a medicamentos de producción industrial a gran escala, destinadas a la industria farmacéutica.",
+      "Las Normas de Correcta Elaboración y Control de Calidad específicas para fórmulas magistrales y preparados oficinales, establecidas en el marco regulador correspondiente.",
+      "El Reglamento europeo relativo a productos cosméticos, cuando la forma farmacéutica tenga uso tópico.",
+      "La normativa sobre productos sanitarios para diagnóstico in vitro cuando se trate de preparados de aplicación externa."
+    ],
+    "correcta": 1
+  },
+  {
+    "numero": 83,
+    "pregunta": "En el marco del control de calidad de materias primas destinadas a formulación magistral, el documento que debe acompañar obligatoriamente a cada lote suministrado y que acredita el cumplimiento de las especificaciones establecidas en farmacopea o ficha técnica aprobada es:",
+    "respuestas": [
+      "La ficha de datos de seguridad, cuyo contenido se centra en los riesgos laborales y medidas de protección frente a la sustancia.",
+      "El certificado de análisis, o documentación técnicamente equivalente, que recoge los resultados analíticos del lote concreto y su conformidad con especificaciones oficiales o internas validadas.",
+      "La ficha comercial del proveedor con descripción general del producto y condiciones de venta.",
+      "El número de registro sanitario del distribuidor mayorista."
+    ],
+    "correcta": 1
+  },
+  {
+    "numero": 84,
+    "pregunta": "Desde la perspectiva de la responsabilidad profesional y del marco competencial en la oficina de farmacia, las operaciones técnicas de formulación realizadas por personal técnico o auxiliar deben desarrollarse:",
+    "respuestas": [
+      "De forma autónoma cuando acrediten experiencia suficiente en el procedimiento.",
+      "Bajo la dirección efectiva, supervisión técnica y responsabilidad legal del farmacéutico/a, quien asume la garantía final del proceso.",
+      "Conforme a instrucciones directas del paciente, una vez aceptada la prescripción.",
+      "Bajo supervisión del personal médico prescriptor, por ser el responsable clínico del tratamiento."
+    ],
+    "correcta": 1
+  },
+  {
+    "numero": 85,
+    "pregunta": "Entre las medidas estructurales orientadas a minimizar el riesgo de contaminación cruzada en un laboratorio galénico conforme a normas de correcta elaboración, se considera adecuada:",
+    "respuestas": [
+      "Realizar las preparaciones en el mostrador para favorecer la supervisión visual constante.",
+      "Establecer zonas físicamente diferenciadas y un flujo de trabajo organizado para operaciones incompatibles o de diferente riesgo, reduciendo interferencias y contaminación cruzada.",
+      "Almacenar materias primas junto a productos de limpieza para optimizar espacio disponible.",
+      "Mantener abiertos los envases de materias primas para agilizar el proceso de pesada."
+    ],
+    "correcta": 1
+  },
+  {
+    "numero": 86,
+    "pregunta": "La determinación del plazo de utilización o fecha de caducidad de una fórmula magistral debe basarse fundamentalmente en:",
+    "respuestas": [
+      "El coste económico del preparado y su repercusión en el servicio.",
+      "Los datos de estabilidad de los componentes, la naturaleza de la forma farmacéutica, el tipo de envase empleado y las condiciones previstas de conservación.",
+      "Un plazo fijo e invariable establecido reglamentariamente para todas las fórmulas magistrales.",
+      "El criterio subjetivo del paciente en función de su ritmo de uso."
+    ],
+    "correcta": 1
+  },
+  {
+    "numero": 87,
+    "pregunta": "En el contexto del sistema de calidad aplicado a la formulación magistral, la trazabilidad implica la capacidad de:",
+    "respuestas": [
+      "Registrar exclusivamente la identidad de la persona paciente destinataria del preparado.",
+      "Reconstruir documentalmente el proceso completo, desde los lotes de materias primas empleados y controles efectuados hasta la dispensación final a la persona paciente.",
+      "Conservar únicamente la receta médica en soporte papel sin registros adicionales.",
+      "Registrar únicamente el precio final."
+    ],
+    "correcta": 1
+  },
+  {
+    "numero": 88,
+    "pregunta": "Antes de proceder a la elaboración de una fórmula magistral prescrita, el personal farmacéutico debe verificar, entre otros aspectos:",
+    "respuestas": [
+      "La disponibilidad inmediata del envase y material de acondicionamiento.",
+      "La coherencia terapéutica de la prescripción, adecuación de dosis, compatibilidad de componentes, forma farmacéutica y viabilidad técnica de la preparación.",
+      "La aceptación expresa del precio por parte de la persona paciente.",
+      "El compromiso del proveedor de materias primas respecto al plazo de entrega."
+    ],
+    "correcta": 1
+  },
+  {
+    "numero": 89,
+    "pregunta": "Un escenario típico donde puede ser necesaria formulación magistral es:",
+    "respuestas": [
+      "La existencia en el mercado de múltiples presentaciones comerciales equivalentes plenamente disponibles.",
+      "El desabastecimiento de una presentación imprescindible sin alternativa terapéutica adecuada autorizada.",
+      "La elaboración de productos cosméticos de higiene diaria sin finalidad terapéutica.",
+      "La preparación de alimentos destinados a lactantes."
+    ],
+    "correcta": 1
+  },
+  {
+    "numero": 90,
+    "pregunta": "El control del producto acabado en formulación magistral persigue principalmente:",
+    "respuestas": [
+      "Aumentar la rentabilidad.",
+      "Verificar que el preparado cumple las especificaciones previamente establecidas (aspecto, homogeneidad, masa o volumen, pH cuando proceda, ausencia de anomalías visibles, etc.).",
+      "Sustituir la necesidad de documentación del proceso de elaboración.",
+      "Evitar la obligación de etiquetado reglamentario."
+    ],
+    "correcta": 1
+  },
+  {
+    "numero": 91,
+    "pregunta": "Si se requiere preparar 250 g de mezcla pulverulenta con 40% almidón, 25% talco y 35% lactosa, indique la opción CORRECTA:",
+    "respuestas": [
+      "100 g almidón, 62,5 g lactosa y 87,5 g talco.",
+      "100 g almidón, 87,5 g lactosa y 62,5 g talco.",
+      "40 g almidón, 25 g talco y 35 g lactosa.",
+      "160 g almidón, 25 g talco y 65 g lactosa."
+    ],
+    "correcta": 1
+  },
+  {
+    "numero": 92,
+    "pregunta": "Señale la opción INCORRECTA sobre enjuagues bucales:",
+    "respuestas": [
+      "Son soluciones acuosas destinadas al tratamiento local de la mucosa oral y no deben tragarse.",
+      "Son soluciones alcohólicas destinadas al tratamiento local de la mucosa oral y no deben tragarse.",
+      "Según la RFE, son preparaciones bucales que contienen uno o varios p.a destinados a ser administrados en la cavidad bucal.",
+      "Las respuestas a) y c) son correctas."
+    ],
+    "correcta": 1
+  },
+  {
+    "numero": 93,
+    "pregunta": "La carbometilcelulosa forma gel por:",
+    "respuestas": [
+      "Fusión térmica.",
+      "Imbibición en medio acuoso.",
+      "Reacción química irreversible.",
+      "Emulsificación."
+    ],
+    "correcta": 1
+  },
+  {
+    "numero": 94,
+    "pregunta": "La fórmula patrón que recoge el FN sobre pomadas que emulsionan agua es:",
+    "respuestas": [
+      "Principio/s activo/s y mezcla de macrogoles.",
+      "Principio/s activo/s y excipiente hidrófobo.",
+      "Principio/s activo/s, excipiente hidrófobo y emulgente A/O.",
+      "Ninguna de las anteriores es CORRECTA."
+    ],
+    "correcta": 2
+  },
+  {
+    "numero": 95,
+    "pregunta": "La ausencia de certificado de análisis o documentación técnicamente equivalente que garantice la conformidad de un lote de materia prima debe implicar, como norma general dentro del sistema de calidad:",
+    "respuestas": [
+      "Su utilización provisional si el envase se encuentra intacto y correctamente etiquetado.",
+      "Su rechazo o mantenimiento en situación de cuarentena hasta disponer de documentación válida que acredite el cumplimiento de especificaciones.",
+      "Su mezcla con otro lote previamente validado para asegurar conformidad.",
+      "Su empleo si el proveedor es habitual y no existen antecedentes de incumplimiento."
+    ],
+    "correcta": 1
+  },
+  {
+    "numero": 96,
+    "pregunta": "En cuanto a las emulsiones, señala la afirmación INCORRECTA:",
+    "respuestas": [
+      "Si la fase externa, continua o dispersante de una emulsión es acuosa y la fase interna, discontinua o dispersa es la oleosa, se llama emulsión óleo/ acuosa y se representa como O/A o O/W, según usemos nomenclatura española o inglesa, respectivamente.",
+      "Si la fase externa, continua o dispersante de una emulsión es oleosa y la fase interna, discontinua o dispersa es la acuosa, se llama emulsión óleo/ acuosa y se representa como O/A o O/W, según usemos nomenclatura española o inglesa, respectivamente.",
+      "Las microemulsiones se caracterizan porque el tamaño de la gota dispersa debe ser menor de 0,1 micrómetros.",
+      "El azul de metileno se puede emplear para determinar el tipo de emulsión y si la emulsión se tiñe de azul uniformemente, significa que el agua es la fase continua (fase externa)."
+    ],
+    "correcta": 1
+  },
+  {
+    "numero": 97,
+    "pregunta": "¿Cuál es el objetivo principal de la hoja de registro de una fórmula?",
+    "respuestas": [
+      "Simplificar la información a la persona paciente.",
+      "Garantizar la trazabilidad y la responsabilidad legal del medicamento.",
+      "Mantener actualizado el stock de la farmacia.",
+      "Conservación de las prescripciones médicas."
+    ],
+    "correcta": 1
+  },
+  {
+    "numero": 98,
+    "pregunta": "¿Cuál es INCORRECTO respecto al filtro HEPA?",
+    "respuestas": [
+      "Retiene ≥0,3 micras con alta eficiencia.",
+      "Garantiza esterilidad absoluta.",
+      "Reduce carga microbiana ambiental.",
+      "Es esencial en cabinas estériles."
+    ],
+    "correcta": 1
+  },
+  {
+    "numero": 99,
+    "pregunta": "En cuanto a las suspensiones en formulación magistral, selecciona la respuesta INCORRECTA:",
+    "respuestas": [
+      "Las suspensiones son sistemas termodinámicamente inestables. Es físicamente normal que sedimenten por la Ley de Stokes; lo importante es que la persona paciente pueda homogeneizar la dosis al agitar.",
+      "Los flóculos son agregados laxos que atrapan aire y líquido, lo que impide que se unan íntimamente y permite que vuelvan a su estado original con una agitación suave.",
+      "La fase interna está formada por partículas sólidas insolubles.",
+      "Conservar en nevera a 2ºC para evitar sedimentos."
+    ],
+    "correcta": 3
+  },
+  {
+    "numero": 100,
+    "pregunta": "La asignación de número de lote a una elaboración permite:",
+    "respuestas": [
+      "Clasificar los preparados por forma farmacéutica.",
+      "Identificar de manera unívoca una producción concreta, facilitando su seguimiento documental y, en su caso, la retirada o gestión de incidencias.",
+      "Evitar la obligación de etiquetado reglamentario.",
+      "Dispensar el preparado sin necesidad de conservar la receta médica."
+    ],
+    "correcta": 1
+  },
+  {
+    "numero": 101,
+    "pregunta": "La conservación de la documentación (registros, hojas de trabajo, controles) debe ajustarse:",
+    "respuestas": [
+      "En función de la valoración individual de la persona paciente implicado en el proceso asistencial.",
+      "De acuerdo con los plazos establecidos en la normativa vigente y con los criterios definidos en el sistema de gestión de calidad.",
+      "Limitándose, como norma general, a un periodo máximo aproximado de un mes desde su generación.",
+      "Únicamente hasta que el documento deje de tener utilidad operativa en el establecimiento farmacéutico."
+    ],
+    "correcta": 1
+  },
+  {
+    "numero": 102,
+    "pregunta": "En caso de derrame de citostáticos, se debe:",
+    "respuestas": [
+      "Proceder a la retirada inmediata del producto utilizando material absorbente seco disponible en la zona de trabajo.",
+      "Activar el procedimiento específico para derrames de citostáticos, utilizando el kit de contención correspondiente y el equipo de protección individual indicado.",
+      "No intervenir si la cantidad derramada es mínima, limitándose a continuar la actividad con normalidad.",
+      "Favorecer la ventilación de la zona afectada para dispersar el producto antes de iniciar cualquier actuación de limpieza."
+    ],
+    "correcta": 1
+  },
+  {
+    "numero": 103,
+    "pregunta": "En el etiquetado de una fórmula magistral es esencial incluir:",
+    "respuestas": [
+      "Exclusivamente el nombre del personal médico prescriptor.",
+      "La identificación del preparado, composición o concentración cuando proceda, vía de administración y posología si corresponde, condiciones de conservación y fecha de caducidad o plazo de utilización.",
+      "Únicamente el precio final abonado por la persona paciente.",
+      "Todas las respuestas anteriores son correctas."
+    ],
+    "correcta": 1
+  },
+  {
+    "numero": 104,
+    "pregunta": "En una cabina de flujo laminar horizontal el aire:",
+    "respuestas": [
+      "Circula verticalmente hacia la persona operaria.",
+      "Sale del fondo hacia la persona operaria.",
+      "No está filtrado.",
+      "Se recircula sin filtración HEPA."
+    ],
+    "correcta": 1
+  },
+  {
+    "numero": 105,
+    "pregunta": "Si el valor de HLB de un emulsionante es 3, significa que:",
+    "respuestas": [
+      "Es apta para emulsiones O/W.",
+      "Es apta para emulsiones W/O.",
+      "No es apta para ninguna emulsión.",
+      "Es una substancia de HLB alta."
+    ],
+    "correcta": 1
+  },
+  {
+    "numero": 106,
+    "pregunta": "Un/Una cliente/a llega a la farmacia con un fármaco en forma de granulado efervescente y te dice que no se producen burbujas al disolverlo en el agua. ¿Qué factores pueden provocar que la efervescencia no se produzca o que se produzca parcialmente?",
+    "respuestas": [
+      "Grandes cantidades de diluyentes añadidos en la formulación.",
+      "Etiquetado incorrecto.",
+      "Absorción de agua por exposición a humedad antes de su uso.",
+      "Todas las opciones son correctas."
+    ],
+    "correcta": 2
+  },
+  {
+    "numero": 107,
+    "pregunta": "Una preparación acuosa multidosis requiere conservante porque:",
+    "respuestas": [
+      "Favorecer la estabilidad fisicoquímica del preparado durante su periodo de almacenamiento.",
+      "Incrementar la viscosidad del vehículo con el fin de facilitar su dosificación.",
+      "Reducir o prevenir la posible proliferación de microorganismos durante el periodo de uso del preparado.",
+      "Ajustar el volumen final de la formulación tras el proceso de elaboración."
+    ],
+    "correcta": 2
+  },
+  {
+    "numero": 108,
+    "pregunta": "¿Cuál NO es una medida de seguridad en manipulación de citostáticos?",
+    "respuestas": [
+      "Utilización de doble guante como medida de protección frente a la posible exposición cutánea.",
+      "Realización de la manipulación en cabina de seguridad biológica adecuada para este tipo de preparados.",
+      "Manipulación en zona abierta del área de trabajo para facilitar la ventilación del espacio.",
+      "Disponibilidad de un kit específico para la actuación inmediata en caso de derrame accidental."
+    ],
+    "correcta": 2
+  },
+  {
+    "numero": 109,
+    "pregunta": "La reducción del tamaño de partícula de un sólido suele aumentar:",
+    "respuestas": [
+      "La superficie específica y, potencialmente, la velocidad de disolución.",
+      "El peso molecular.",
+      "La estabilidad química en todos los casos.",
+      "La densidad real del sólido de forma constante."
+    ],
+    "correcta": 0
+  },
+  {
+    "numero": 110,
+    "pregunta": "En relación con el mantenimiento y las especificaciones técnicas del juego de placas de un capsulador manual (tipo suizo o similar) utilizado en la oficina de farmacia para la elaboración de fórmulas magistrales, señale la afirmación INCORRECTA:",
+    "respuestas": [
+      "Para garantizar un ajuste hermético y preciso durante el proceso de sellado, el número de serie grabado en el metal debe ser idéntico en las tres placas que conforman el juego funcional.",
+      "El llenado de las cápsulas mediante el método de vertido en placa es un proceso volumétrico, por lo que en formulaciones de baja densidad puede ser necesario realizar una compactación controlada del polvo.",
+      "El juego de placas estándar suele estar compuesto por tres unidades metálicas o de polímero de alta resistencia, que se identifican visualmente por ser dos de color blanco y una de color negro.",
+      "El diseño de las placas permite que, independientemente del tamaño de la cápsula (desde el 000 hasta el 5), se pueda utilizar el mismo bastidor o armazón base sin necesidad de ajustes adicionales en la profundidad."
+    ],
+    "correcta": 3
+  },
+  {
+    "numero": 111,
+    "pregunta": "La liofilización se basa en:",
+    "respuestas": [
+      "Evaporación del agua a presión atmosférica.",
+      "Congelación y posterior sublimación del hielo bajo vacío.",
+      "Calentamiento directo hasta ebullición.",
+      "Filtración a través de membrana."
+    ],
+    "correcta": 1
+  },
+  {
+    "numero": 112,
+    "pregunta": "De acuerdo con la normativa y las Buenas Prácticas de Preparación, así como con los criterios de control de calidad aplicables a materias primas farmacéuticas, indique cuál de las siguientes afirmaciones acerca de las materias primas utilizadas en formulación magistral es INCORRECTA:",
+    "respuestas": [
+      "La oficina de farmacia o servicio farmacéutico debe disponer de una copia del boletín o certificado de análisis de cada materia prima, debidamente firmado por la dirección técnica o responsable del control de calidad del proveedor.",
+      "Aunque el certificado o boletín de análisis del proveedor se considera generalmente suficiente para garantizar la calidad de la materia prima adquirida, es recomendable realizar al menos una prueba de identificación para verificar su autenticidad.",
+      "Todas las materias primas destinadas a la elaboración de fórmulas magistrales pueden utilizarse directamente tras su recepción, sin necesidad de comprobación documental ni identificación previa, siempre que procedan de un proveedor autorizado.",
+      "Las materias primas deben almacenarse adecuadamente, identificarse correctamente y registrarse para asegurar su trazabilidad dentro del proceso de elaboración de preparados farmacéuticos."
+    ],
+    "correcta": 2
+  },
+  {
+    "numero": 113,
+    "pregunta": "Teniendo en cuenta la relación fisicoquímica y su aplicación práctica en el laboratorio de formulación, ¿cuál de las siguientes afirmaciones describe correctamente una disolución insaturada?:",
+    "respuestas": [
+      "Una disolución se considera insaturada cuando la cantidad de soluto disuelto supera el límite máximo de solubilidad del soluto en el disolvente a una temperatura determinada, manteniéndose en equilibrio estable.",
+      "Una disolución se denomina insaturada cuando la cantidad de soluto disuelto es inferior a la cantidad máxima que el disolvente puede disolver en esas condiciones de temperatura y presión, por lo que aún podría disolverse más soluto.",
+      "Una disolución es insaturada cuando la cantidad de soluto presente coincide exactamente con su coeficiente de solubilidad, estableciéndose un equilibrio dinámico entre soluto disuelto y no disuelto.",
+      "Una disolución se clasifica como insaturada cuando existe un exceso de soluto no disuelto en el fondo del recipiente, lo que indica que el sistema ha alcanzado su capacidad máxima de disolución."
+    ],
+    "correcta": 1
+  },
+  {
+    "numero": 114,
+    "pregunta": "El objetivo principal del secado en una preparación es:",
+    "respuestas": [
+      "Reducir humedad residual y mejorar estabilidad/fluidez según el caso.",
+      "Alcanzar esterilidad absoluta del preparado, garantizando la eliminación de cualquier microorganismo.",
+      "Incrementar la solubilidad del principio activo en el vehículo, facilitando su administración.",
+      "Modificar el pH del preparado para ajustar su compatibilidad con la vía de administración."
+    ],
+    "correcta": 0
+  },
+  {
+    "numero": 115,
+    "pregunta": "En relación con los ensayos y parámetros de caracterización de granulados, indique cuál de los siguientes enunciados es INCORRECTO:",
+    "respuestas": [
+      "La distribución del tamaño de partícula de un granulado puede determinarse mediante técnicas de tamización, utilizando una serie de tamices normalizados que permiten clasificar las partículas según su diámetro.",
+      "La compactibilidad de un granulado está relacionada con su capacidad para formar aglomerados o compactos estables bajo presión, propiedad relevante para la fabricación de comprimidos y para mantener la integridad del material durante el almacenamiento.",
+      "Un índice de compactibilidad inferior al 15 % suele interpretarse como indicativo de mala fluidez del granulado, lo que puede dificultar su manipulación y dosificación en procesos industriales.",
+      "La fluidez de los granulados es un parámetro importante en tecnología farmacéutica, ya que influye en la uniformidad de llenado de matrices de compresión o cápsulas durante el proceso de fabricación."
+    ],
+    "correcta": 2
+  },
+  {
+    "numero": 116,
+    "pregunta": "La emulsificación requiere habitualmente:",
+    "respuestas": [
+      "La presencia de un emulsionante adecuado junto con la aplicación de energía mecánica suficiente para dispersar uniformemente una fase dentro de la otra.",
+      "Garantizar esterilidad absoluta en todas las emulsiones, independientemente de su uso o vía de administración.",
+      "Ajustar el pH de la emulsión a valores neutros sin excepción, para asegurar la estabilidad.",
+      "Evitar cualquier tipo de agitación durante la preparación, con el fin de prevenir la ruptura de fases."
+    ],
+    "correcta": 0
+  },
+  {
+    "numero": 117,
+    "pregunta": "La molienda excesiva de determinados principios activos puede:",
+    "respuestas": [
+      "La molienda excesiva puede favorecer fenómenos de degradación química, como la oxidación, debido al aumento de la superficie específica del principio activo expuesta al oxígeno y a otros agentes ambientales.",
+      "La reducción intensa del tamaño de partícula suele provocar una disminución significativa de la superficie específica del sólido, lo que reduce su reactividad química.",
+      "La pulverización exhaustiva de un principio activo garantiza en todos los casos una mayor estabilidad química del preparado farmacéutico final.",
+      "La molienda muy fina elimina la necesidad de incorporar conservantes o antioxidantes en la formulación farmacéutica."
+    ],
+    "correcta": 0
+  },
+  {
+    "numero": 118,
+    "pregunta": "Señale la respuesta adecuada sobre el principio de uso racional del medicamento:",
+    "respuestas": [
+      "Promover que los medicamentos prescritos sean los más apropiados para cada enfermedad, considerando la evidencia científica disponible, la seguridad y la eficacia, aunque para ello en ocasiones se priorice el medicamento más costoso.",
+      "La persona paciente reciba el medicamento adecuado, en la dosis correcta, durante el tiempo preciso y al menor coste posible para ella y la comunidad.",
+      "Se priorice siempre el medicamento genérico.",
+      "Todas las respuestas anteriores son correctas."
+    ],
+    "correcta": 1
+  },
+  {
+    "numero": 119,
+    "pregunta": "La farmacovigilancia tiene como objetivo:",
+    "respuestas": [
+      "Controlar el precio de los medicamentos.",
+      "Detectar, evaluar y prevenir reacciones adversas.",
+      "Autorizar nuevos medicamentos.",
+      "Supervisar residuos sanitarios."
+    ],
+    "correcta": 1
+  },
+  {
+    "numero": 120,
+    "pregunta": "Según la Ley 29/2006, el sistema de precios de referencia en el SNS tiene como objetivo regular los precios de los medicamentos financiados por el sistema público. Según la Ley 29/2006, indique la opción más correcta:",
+    "respuestas": [
+      "El objetivo es contener el gasto farmacéutico del SNS mediante la fijación de un precio de referencia para grupos de medicamentos equivalentes, promoviendo el uso de genéricos y asegurando que los precios no superen un límite máximo establecido por la autoridad sanitaria, sin impedir la competencia ni afectar la disponibilidad de los productos.",
+      "El objetivo es establecer un precio de referencia para grupos de medicamentos similares, de manera que los laboratorios ajusten sus precios al rango marcado por la autoridad sanitaria, incentivando el uso de productos económicamente más eficientes sin eliminar la posibilidad de diferencias de coste entre marcas.",
+      "El objetivo es impedir la competencia entre laboratorios mediante la fijación de precios máximos y la prohibición de descuentos, garantizando que todos los productos tengan un precio uniforme dentro del SNS.",
+      "El objetivo es definir un precio máximo orientativo por grupo terapéutico, permitiendo que los laboratorios mantengan cierta flexibilidad para aplicar descuentos o promociones, siempre que el precio final no supere el límite fijado por la autoridad sanitaria; el objetivo principal es promover eficiencia en el gasto y asegurar accesibilidad."
+    ],
+    "correcta": 0
+  },
+  {
+    "numero": 121,
+    "pregunta": "Según la Ley 29/2006, un medicamento genérico debe cumplir criterios específicos que garanticen su equivalencia con el medicamento de referencia. Señale la opción correcta:",
+    "respuestas": [
+      "Demostrar bioequivalencia con el medicamento de referencia, garantizando que su efecto terapéutico, seguridad y perfil farmacocinético sean equivalentes, sin diferir en la forma farmacéutica o excipientes inactivos.",
+      "Tener un precio igual o inferior al medicamento origina, siendo éste el criterio principal para considerarlo genérico, independientemente de su bioequivalencia o eficacia clínica.",
+      "Presentar la misma eficacia clínica o farmacológica que el medicamento de referencia, justificando así su prescripción preferente, aunque difiera en composición química o forma farmacéutica.",
+      "Demostrar bioequivalencia con el medicamento de referencia, garantizando que su efecto terapéutico, seguridad y perfil farmacocinético sean equivalentes, aunque pueda diferir en envase, apariencia, nombre comercial o excipientes inactivos."
+    ],
+    "correcta": 3
+  },
+  {
+    "numero": 122,
+    "pregunta": "En caso de desabastecimiento, la dispensación excepcional debe:",
+    "respuestas": [
+      "La dispensación excepcional puede realizarse siguiendo protocolos internos del centro, permitiendo sustituciones autorizadas solo en casos concretos, siempre que se documente la decisión, aunque la autoridad sanitaria no haya emitido medidas específicas para esa situación.",
+      "La dispensación excepcional debe ajustarse estrictamente a las medidas adoptadas por la autoridad competente, garantizando la seguridad de la prsona paciente y la continuidad del tratamiento, incluyendo posibles sustituciones autorizadas limitadas y documentadas.",
+      "En caso de desabastecimiento, se puede sustituir temporalmente el medicamento por un producto alternativo autorizado con características similares, siempre que se cumpla la normativa vigente y se registre la sustitución, aunque la autoridad sanitaria no haya definido medidas específicas para ese caso.",
+      "La dispensación excepcional debe realizarse con supervisión de la persona farmacéutica responsable, priorizando la continuidad del tratamiento, pero pudiendo suspender temporalmente la prescripción si no existen alternativas autorizadas y registradas según protocolos internos."
+    ],
+    "correcta": 1
+  },
+  {
+    "numero": 123,
+    "pregunta": "Según el Artículo 3 del Decreto 21/2015, que recoge las condiciones para la gestión de los residuos sanitarios en la Comunidad Autónoma del País Vasco ¿cuál de los siguientes residuos se clasifica específicamente dentro del Grupo III (Residuos sanitarios de naturaleza no biológica y mezclas que los contengan)?",
+    "respuestas": [
+      "Residuos cortantes y punzantes.",
+      "Residuos de medicamentos citotóxicos y citostáticos.",
+      "Residuos infecciosos procedentes de la persona pacientes con enfermedades del Anexo I.",
+      "Filtros de diálisis de pacientes no infecciosos."
+    ],
+    "correcta": 1
+  },
+  {
+    "numero": 124,
+    "pregunta": "Según el Decreto 21/2015 sobre gestión de residuos sanitarios en la Comunidad Autónoma del País Vasco, indique la respuesta correcta:",
+    "respuestas": [
+      "Material punzante → Grupo II; Medicamentos citostáticos → Grupo III.a; Fluidos biológicos → Grupo II; ; Los citostáticos se gestionan como residuos peligrosos mediante incineración en instalaciones autorizadas; el productor debe clasificar, separar y entregar los residuos a gestores autorizados.",
+      "Material punzante → Grupo III; Medicamentos citostáticos → Grupo II; Fluidos biológicos → Grupo II; Los citostáticos se pueden eliminar por vertido en red sanitaria; el productor solo debe etiquetar los residuos.",
+      "Material punzante → Grupo II; Medicamentos citostáticos → Grupo III.a; Fluidos biológicos → Grupo II; Los citostáticos se gestionan como residuos inertes; el productor no tiene responsabilidad sobre la gestión externa.",
+      "Material punzante → Grupo II; Medicamentos citostáticos → Grupo III.a; Fluidos biológicos → Grupo III; ; Los citostáticos se pueden mezclar con residuos de laboratorio; el productor debe almacenarlos en cualquier recipiente."
+    ],
+    "correcta": 0
+  },
+  {
+    "numero": 125,
+    "pregunta": "Según el Decreto 21/2015 sobre gestión de residuos sanitarios, el almacenamiento temporal de residuos generados en centros sanitarios:",
+    "respuestas": [
+      "Realizarse en zonas específicas y delimitadas del centro, cumpliendo condiciones de seguridad, ventilación y accesibilidad, con señalización clara del tipo de residuo y su grupo de riesgo, y respetando el tiempo máximo de almacenamiento interno establecido por la normativa antes de su traslado a un gestor autorizado; no se debe mezclar con residuos urbanos ni con otros tipos de residuos peligrosos.",
+      "Realizarse en cualquier área disponible del centro, siempre que se mantenga cierta distancia de pasillos y accesos principales, con señalización clara del tipo de residuo y su grupo de riesgo, y respetando el tiempo máximo de almacenamiento interno establecido por la normativa antes de su traslado a un gestor autorizado; no se debe mezclar con residuos urbanos ni con otros tipos de residuos peligrosos.",
+      "Podrá realizarse en espacios compartidos con residuos urbanos o industriales, siempre que los residuos sanitarios estén en contenedores cerrados, etiquetados y separados físicamente del resto, cumpliendo condiciones de seguridad, ventilación y accesibilidad, con señalización clara del tipo de residuo y su grupo de riesgo, y respetando el tiempo máximo de almacenamiento interno establecido por la normativa antes de su traslado a un gestor autorizado.",
+      "Ninguna de las respuestas anteriores es correcta."
+    ],
+    "correcta": 0
+  },
+  {
+    "numero": 126,
+    "pregunta": "Según lo establecido en el Decreto 21/2015 sobre gestión de residuos sanitarios en la Comunidad Autónoma del País Vasco, indique qué tipo de recipiente es el adecuado para depositar el material punzante:",
+    "respuestas": [
+      "Recipientes de plástico rígido, resistentes a perforación, con tapa segura y cierre hermético, etiquetados con el símbolo de riesgo biológico, de tamaño variable según la cantidad generada, no deben sobrepasar el límite de llenado indicado.",
+      "Recipientes de plástico no necesariamente rígido, resistentes a perforación, con tapa segura, pero sin cierre hermético, etiquetados con el símbolo de riesgo biológico, de tamaño variable según la cantidad generada, no deben sobrepasar el límite de llenado indicado.",
+      "Recipientes de plástico rígido, resistentes a perforación, con tapa segura y cierre hermético, etiquetados con símbolo de riesgo químico y la leyenda “residuos sanitarios Grupo III – medicamentos citotóxicos”, de tamaño variable según la cantidad generada, no deben sobrepasar el límite de llenado indicado.",
+      "Las respuestas a) y c) con correctas."
+    ],
+    "correcta": 0
+  },
+  {
+    "numero": 127,
+    "pregunta": "Según el Decreto 21/2015, ¿cuál de las siguientes opciones describe correctamente los requisitos técnicos y la capacidad máxima de los recipientes rígidos destinados a residuos del Grupo II (residuos de riesgo biológico)?",
+    "respuestas": [
+      "Recipientes de un solo uso, opacos, impermeables, con cierre seguro, resistentes a la carga y a perforaciones, con capacidad máxima de 70 litros.",
+      "Recipientes reutilizables, opacos y con cierre seguro, que evite aperturas accidentales y capacidad máxima de 60 litros.",
+      "Recipientes de un solo uso, transparentes, impermeables, con cierre hermético, con capacidad máxima de 70 litros.",
+      "Recipientes de un solo uso, opacos e impermeables, con capacidad máxima de 50 litros."
+    ],
+    "correcta": 0
+  },
+  {
+    "numero": 128,
+    "pregunta": "En relación con el procedimiento de dispensación de metadona en oficinas de farmacia dentro de programas de mantenimiento con agonistas opioides, señale la afirmación correcta:",
+    "respuestas": [
+      "La dispensación de metadona en oficina de farmacia puede realizarse con receta médica ordinaria siempre que la persona paciente esté incluida en un programa autorizado de tratamiento de la dependencia a opioides y se registre la entrega en el libro recetario.",
+      "La dispensación de metadona en programas de mantenimiento requiere prescripción médica específica emitida por el centro autorizado y la oficina de farmacia debe realizar la dispensación conforme al protocolo establecido, incluyendo el registro individualizado de las dosis administradas.",
+      "La metadona destinada a programas de mantenimiento puede ser dispensada para varios días a la persona paciente siempre que firme un documento de responsabilidad y la farmacia conserve copia de la prescripción durante al menos un año.",
+      "En los programas de mantenimiento con metadona, la oficina de farmacia únicamente actúa como punto de entrega del medicamento preparado por el centro prescriptor, sin necesidad de realizar registros adicionales distintos a los propios de la facturación farmacéutica."
+    ],
+    "correcta": 1
+  },
+  {
+    "numero": 129,
+    "pregunta": "¿Cuál de las siguientes combinaciones de valores se considera más compatible con parámetros fisiológicos normales en una persona adulta?:",
+    "respuestas": [
+      "Temperatura corporal de 36,9 °C, frecuencia cardíaca de 104 lpm, presión arterial de 122/78 mmHg y frecuencia respiratoria de 16 rpm.",
+      "Temperatura corporal de 36,6 °C, frecuencia cardíaca de 72 lpm, presión arterial de 118/76 mmHg y frecuencia respiratoria de 14 rpm.",
+      "Temperatura corporal de 36,4 °C, frecuencia cardíaca de 58 lpm, presión arterial de 136/86 mmHg y frecuencia respiratoria de 18 rpm.",
+      "Temperatura corporal de 37,2 °C, frecuencia cardíaca de 90 lpm, presión arterial de 128/84 mmHg y frecuencia respiratoria de 22 rpm."
+    ],
+    "correcta": 1
+  },
+  {
+    "numero": 130,
+    "pregunta": "En relación con el calendario sistemático de vacunación infantil según el Sistema Nacional de Salud y su papel en la promoción de la salud, señale la afirmación INCORRECTA:",
+    "respuestas": [
+      "El calendario de vacunación infantil incluye vacunas sistemáticas frente a enfermedades como difteria, tétanos, tosferina, poliomielitis o sarampión, administradas en distintas etapas de la infancia.",
+      "Las vacunas incluidas en el calendario sistemático se administran siguiendo pautas y edades recomendadas establecidas por las autoridades sanitarias, con el objetivo de alcanzar altas coberturas vacunales en la población.",
+      "Una vez completada la primovacunación infantil, es necesario administrar dosis de recuerdo de algunas vacunas durante la adolescencia o la edad adulta.",
+      "El calendario de vacunación incluye vacunas sistemáticas frente a enfermedades como fiebre amarilla, hepatitis A y la vacuna de la varicela a menores de 15 meses."
+    ],
+    "correcta": 3
+  },
+  {
+    "numero": 131,
+    "pregunta": "En relación con las enfermedades de transmisión sexual (ETS) y su prevención, señale la afirmación INCORRECTA:",
+    "respuestas": [
+      "La prevención de las ETS incluye medidas como el uso de preservativos, la vacunación frente a virus como el VPH o la hepatitis B, y la detección precoz mediante cribados periódicos en personas sexualmente activas.",
+      "La higiene sexual tiene como objetivo la conservación de la salud sexual y la prevención de ETS.",
+      "El uso de preservativo reduce significativamente el riesgo de transmisión de la mayoría de ETS, pero no elimina completamente el riesgo de infecciones que afectan zonas no cubiertas por el preservativo, como el herpes genital o el VPH.",
+      "La prevención de ETS se limita principalmente al uso de preservativos; la educación sexual o la vacunación solo tienen un papel secundario."
+    ],
+    "correcta": 3
+  },
+  {
+    "numero": 132,
+    "pregunta": "Respecto a la dependencia de sustancias se señalan varias afirmaciones. Señale la INCORRECTA:",
+    "respuestas": [
+      "La dependencia psíquica es siempre más fácil de superar que la física, por lo que los tratamientos centrados en síntomas de abstinencia suelen ser suficientes para eliminar el deseo de la sustancia.",
+      "La dependencia física se caracteriza principalmente por la aparición de síntomas de abstinencia al interrumpir la sustancia, mientras que la dependencia psíquica se manifiesta como deseo intenso o craving, ansiedad o irritabilidad ante la imposibilidad de consumir.",
+      "La naloxona es un antagonista opioide que puede revertir los efectos de una sobredosis, pero su duración de acción es más corta que la de muchos opioides, por lo que puede ser necesario repetir la dosis o mantener vigilancia médica prolongada.",
+      "Ambas formas de dependencia pueden coexistir, y la intervención clínica debe considerar ambos aspectos para un abordaje integral."
+    ],
+    "correcta": 0
+  },
+  {
+    "numero": 133,
+    "pregunta": "En relación con la cadena epidemiológica de las enfermedades transmisibles, señale la afirmación correcta:",
+    "respuestas": [
+      "La cadena epidemiológica incluye exclusivamente al agente infeccioso y el huésped, ya que el ambiente y la vía de transmisión no son determinantes esenciales en la propagación de la enfermedad.",
+      "Interrumpir cualquier eslabón de la cadena epidemiológica puede contribuir a la prevención de la enfermedad, por ejemplo, mediante vacunación, aislamiento de casos o medidas de higiene ambiental.",
+      "Una vez establecido el agente infeccioso en el huésped, la interrupción de la vía de transmisión ya no tiene ningún efecto en la prevención de la propagación.",
+      "La cadena epidemiológica es un concepto útil únicamente en enfermedades transmisibles por contacto directo; no se aplica a infecciones transmitidas por vectores o por vía aérea."
+    ],
+    "correcta": 1
+  },
+  {
+    "numero": 134,
+    "pregunta": "En relación con la medición de glucosa en sangre y la prevención de la diabetes, señale la afirmación correcta:",
+    "respuestas": [
+      "La glucosa en ayunas se mide tras un ayuno de al menos 8 horas, y valores de 100–125 mg/dL se consideran alteración de la glucosa en ayunas, indicando la necesidad de seguimiento y medidas de prevención.",
+      "La glucosa posprandial debe medirse exactamente 30 minutos después de la comida, y valores superiores a 140 mg/dL requieren inicio inmediato de medicación hipoglucemiante.",
+      "La monitorización de glucosa periódica se recomienda exclusivamente en personas con factores de riesgo (obesidad, antecedentes familiares, hipertensión), y los resultados se utilizan para orientar cambios en estilo de vida y prevención.",
+      "Las respuestas a) y b) son correctas."
+    ],
+    "correcta": 0
+  },
+  {
+    "numero": 135,
+    "pregunta": "Respecto a la sobrecarga de la persona cuidadora medida mediante la escala de Zarit, señale la afirmación correcta:",
+    "respuestas": [
+      "La sobrecarga de la persona cuidadora se identifica mediante la percepción de estrés, agotamiento y dificultades en la vida personal, y la escala de Zarit permite cuantificar estos aspectos mediante un cuestionario autoinformado.",
+      "La escala de Zarit se aplica en cuidadores profesionales y no es útil en familiares o personas cuidadoras informales.",
+      "Es un cuestionario que consta de 22 preguntas con cinco opciones de respuesta. Sumando todos los resultados marcados se obtendrá la puntuación total. Si es superior a 45 significa que sufre sobrecarga grave.",
+      "Las respuestas a) y c) son correctas."
+    ],
+    "correcta": 2
+  },
+  {
+    "numero": 136,
+    "pregunta": "Una mujer adulta acude a la farmacia para consultar el resultado de un análisis de orina realizado con tira reactiva. Los resultados obtenidos son los siguientes: densidad 1.025, pH 7,2, proteínas 0 mg/dl, glucosa 70 mg/dl, cuerpos cetónicos 0 mg/dl, urobilinógeno 0,2 mg/dl, bilirrubina 0 mg/dl, leucocitos 15 µl y sangre 0 mg/dl. Desde el punto de vista de la promoción de la salud en la farmacia comunitaria, ¿cuál sería la actuación más adecuada?",
+    "respuestas": [
+      "Recomendar a la paciente aumentar la ingesta de líquidos y repetir la prueba en unos días, ya que la densidad urinaria es elevada.",
+      "Informar a la paciente de que ese pH urinario ligeramente alcalino puede indicar infección urinaria y recomendarle consultar con el personal médico.",
+      "Aconsejar la realización de una determinación de glucosa en sangre o derivar al personal médico para descartar una alteración del metabolismo de la glucosa.",
+      "Recomendar medidas higiénico-dietéticas para reducir los leucocitos en orina y prevenir infecciones urinarias."
+    ],
+    "correcta": 2
+  },
+  {
+    "numero": 137,
+    "pregunta": "Matilde es una joven de 16 años cuyas menstruaciones son muy abundantes. Últimamente se encuentra muy cansada sin motivo aparente, por lo que acude a la farmacia para pedir consejo. ¿Cuál sería la actuación más adecuada del técnico en farmacia y parafarmacia?:",
+    "respuestas": [
+      "Recomendar un complejo vitamínico durante unas semanas y valorar la evolución de la fatiga.",
+      "Sugerir medidas dietéticas ricas en hierro (legumbres, carnes rojas, verduras de hoja verde) y recomendar acudir al personal médico para valoración, especialmente si el cansancio persiste.",
+      "Recomendar un suplemento de hierro oral debido a la probable pérdida de hierro asociada a la menstruación abundante.",
+      "Indicar antiinflamatorios no esteroideos durante la menstruación para disminuir el sangrado y mejorar los síntomas."
+    ],
+    "correcta": 1
+  },
+  {
+    "numero": 138,
+    "pregunta": "El respeto a la intimidad y privacidad de la persona usuaria durante la atención en la oficina de farmacia se relaciona especialmente con determinados aspectos organizativos y éticos del servicio. ¿Cuál de los siguientes factores puede contribuir de manera más directa a garantizar dicha intimidad durante el proceso de atención sanitaria?",
+    "respuestas": [
+      "El tipo de establecimiento sanitario en el que se desarrolla la atención farmacéutica, ya que la organización física y administrativa del centro puede influir indirectamente en la forma en que se presta el servicio a la persona usuaria.",
+      "La gestión adecuada de la confidencialidad de la información sanitaria de la persona paciente, que constituye un principio ético fundamental para proteger los datos personales relacionados con su estado de salud.",
+      "El precio final del medicamento dispensado, puesto que el coste económico del tratamiento puede condicionar la percepción que la persona usuaria tiene sobre la calidad y el valor del servicio recibido.",
+      "La rapidez y agilidad con la que se presta el servicio farmacéutico, ya que una atención más rápida reduce el tiempo de exposición pública de la persona usuaria durante la consulta o dispensación."
+    ],
+    "correcta": 1
+  },
+  {
+    "numero": 139,
+    "pregunta": "¿Cuál de los siguientes factores se considera una barrera frecuente en la comunicación durante la atención farmacéutica?",
+    "respuestas": [
+      "La utilización de pictogramas o recursos gráficos destinados a facilitar la comprensión del tratamiento por parte de la persona usuaria cuando existen dificultades lingüísticas o de alfabetización sanitaria.",
+      "El empleo de un lenguaje sencillo, claro y adaptado al nivel de comprensión de la persona usuaria, con el objetivo de mejorar la transmisión de la información relacionada con el medicamento o el tratamiento.",
+      "La presencia de ruido ambiental excesivo o la ausencia de condiciones adecuadas de privacidad durante la atención, que pueden dificultar la comprensión del mensaje y limitar la comunicación eficaz entre el profesional sanitario y la persona usuaria.",
+      "El mantenimiento de contacto visual adecuado entre el profesional sanitario y la persona usuaria, como elemento de comunicación no verbal que favorece la atención y la confianza durante la interacción."
+    ],
+    "correcta": 2
+  },
+  {
+    "numero": 140,
+    "pregunta": "La discreción profesional implica:",
+    "respuestas": [
+      "Tratar la información de la persona usuaria con reserva y respeto.",
+      "No proporcionar información.",
+      "Evitar el contacto con la persona usuaria.",
+      "Delegar la información en otros/otras."
+    ],
+    "correcta": 0
+  },
+  {
+    "numero": 141,
+    "pregunta": "Una conducta que NO favorece la comunicación eficaz es:",
+    "respuestas": [
+      "Adaptar el lenguaje a la persona usuaria.",
+      "Mantener contacto visual.",
+      "Mostrar prisa durante la atención.",
+      "Escuchar sin interrumpir."
+    ],
+    "correcta": 2
+  },
+  {
+    "numero": 142,
+    "pregunta": "El derecho de la persona usuaria a recibir información sanitaria implica que esta debe ser:",
+    "respuestas": [
+      "Técnica y compleja.",
+      "Clara, comprensible y adecuada a sus necesidades.",
+      "Exclusivamente escrita.",
+      "Limitada por el tiempo disponible."
+    ],
+    "correcta": 1
+  },
+  {
+    "numero": 143,
+    "pregunta": "En el ámbito de la atención farmacéutica y de la gestión de la información sanitaria dentro de la oficina de farmacia, la normativa profesional y los principios éticos establecen obligaciones específicas relacionadas con la protección de los datos personales y clínicos de las personas usuarias. En relación con estas obligaciones, ¿a quién afecta el deber de confidencialidad respecto a la información sanitaria de las personas usuarias?",
+    "respuestas": [
+      "Únicamente al/a la farmacéutico/a titular de la oficina de farmacia, por ser la persona responsable legal del establecimiento sanitario y de la actividad profesional desarrollada en él.",
+      "Solo al personal administrativo que gestiona la documentación o los registros relacionados con la dispensación de medicamentos y los datos personales de las personas usuarias.",
+      "Todo el personal que trabaja en la oficina de farmacia, independientemente de su categoría profesional, en la medida en que pueda tener acceso a información sanitaria o datos personales de las personas usuarias.",
+      "Exclusivamente al sistema informático utilizado para la gestión de recetas electrónicas y otros registros sanitarios de las personas pacientes."
+    ],
+    "correcta": 2
+  },
+  {
+    "numero": 144,
+    "pregunta": "Dentro del marco del Sistema Nacional de Salud y de la organización de las prestaciones sanitarias dirigidas a la población, la prestación farmacéutica constituye uno de los elementos fundamentales para garantizar el acceso de las personas ciudadanas a los medicamentos en condiciones de seguridad, calidad y uso adecuado. En relación con este concepto, ¿cómo se define la prestación farmacéutica dentro del sistema sanitario?",
+    "respuestas": [
+      "Un servicio de carácter fundamentalmente comercial orientado a la dispensación de productos farmacéuticos en establecimientos autorizados, cuya finalidad principal es la distribución y venta de medicamentos.",
+      "Una prestación sanitaria integrada en el sistema de salud cuyo objetivo es garantizar a la población el acceso a los medicamentos y productos sanitarios, promoviendo su utilización segura, eficaz y racional.",
+      "Un servicio opcional dentro de la organización del sistema sanitario, que depende principalmente de la iniciativa privada y de la demanda individual de las personas usuarias.",
+      "Una actividad de carácter exclusivamente privado desarrollada por establecimientos farmacéuticos que actúan de forma independiente respecto a la estructura del sistema sanitario público."
+    ],
+    "correcta": 1
+  },
+  {
+    "numero": 145,
+    "pregunta": "El sistema sanitario público se caracteriza por:",
+    "respuestas": [
+      "Financiación privada.",
+      "Acceso restringido.",
+      "Gestión exclusiva por entidades privadas.",
+      "Cobertura universal y acceso equitativo a las prestaciones."
+    ],
+    "correcta": 3
+  },
+  {
+    "numero": 146,
+    "pregunta": "La oficina de farmacia se define como:",
+    "respuestas": [
+      "Un establecimiento comercial sin funciones sanitarias.",
+      "Un servicio hospitalario.",
+      "Un establecimiento sanitario privado de interés público.",
+      "Un centro administrativo."
+    ],
+    "correcta": 2
+  },
+  {
+    "numero": 147,
+    "pregunta": "De acuerdo con la normativa que regula el funcionamiento de las oficinas de farmacia y la distribución de responsabilidades profesionales dentro de estos establecimientos sanitarios, la dirección técnica implica la supervisión de las actividades relacionadas con la custodia, conservación, dispensación y control de los medicamentos, así como el cumplimiento de la legislación sanitaria vigente. En relación con esta responsabilidad profesional, ¿a quién corresponde la dirección técnica de la oficina de farmacia?",
+    "respuestas": [
+      "Al/A la farmacéutico/a titular de la oficina de farmacia, quien asume la responsabilidad legal y profesional de la dirección técnica del establecimiento sanitario y de las actividades que en él se desarrollan.",
+      "Al/A la técnico/a en farmacia que desempeña funciones de apoyo en las tareas de dispensación y gestión, actuando bajo la supervisión del profesional farmacéutico responsable.",
+      "Al personal de farmacia encargado de colaborar en tareas básicas de atención al público y organización de productos dentro del establecimiento.",
+      "Al personal administrativo que gestiona los aspectos documentales, económicos y organizativos relacionados con la actividad diaria de la oficina de farmacia."
+    ],
+    "correcta": 0
+  },
+  {
+    "numero": 148,
+    "pregunta": "Dentro de la organización profesional de la oficina de farmacia, las diferentes categorías laborales tienen atribuidas funciones específicas de acuerdo con la normativa sanitaria vigente y con el nivel de responsabilidad profesional que corresponde a cada perfil. En este contexto, el personal técnico en farmacia desarrolla tareas de apoyo relacionadas con la gestión y dispensación de medicamentos bajo la supervisión del profesional farmacéutico responsable. ¿Cuál de las siguientes se considera una de las funciones propias del/de la técnico/a en farmacia?",
+    "respuestas": [
+      "Prescribir medicamentos a las personas usuarias cuando presentan síntomas leves, seleccionando el tratamiento farmacológico que considere más adecuado en función de su criterio profesional.",
+      "Colaborar en la dispensación de medicamentos y productos sanitarios bajo la supervisión del profesional farmacéutico responsable, participando en las tareas técnicas y organizativas propias de la oficina de farmacia.",
+      "Diagnosticar patologías o problemas de salud en las personas usuarias que acuden a la oficina de farmacia, determinando la naturaleza de la enfermedad y el tratamiento correspondiente.",
+      "Autorizar tratamientos farmacológicos o modificar las pautas prescritas por el profesional médico cuando se considere necesario para mejorar la eficacia terapéutica."
+    ],
+    "correcta": 1
+  },
+  {
+    "numero": 149,
+    "pregunta": "En el funcionamiento cotidiano de la oficina de farmacia y en la gestión de los medicamentos y productos sanitarios, la documentación farmacéutica constituye un elemento fundamental para asegurar el registro adecuado de las actividades profesionales y el seguimiento de los distintos procesos relacionados con la dispensación y el control de los productos farmacéuticos. En relación con este aspecto, ¿cuál es la finalidad principal de la documentación farmacéutica dentro del ejercicio profesional?",
+    "respuestas": [
+      "Facilitar la actividad comercial del establecimiento farmacéutico mediante la organización de la información relacionada con la venta de medicamentos y otros productos disponibles en la farmacia.",
+      "Sustituir parcialmente la labor asistencial desarrollada por los/las profesionales sanitarios, permitiendo que determinados procesos de atención a la persona usuaria se realicen únicamente mediante registros documentales.",
+      "Reducir el tiempo dedicado a la atención a la persona usuaria mediante la simplificación de los procedimientos administrativos y la disminución de los registros relacionados con la dispensación.",
+      "Garantizar el control adecuado de los medicamentos y productos sanitarios, asegurar su trazabilidad a lo largo de los diferentes procesos y permitir el cumplimiento de la normativa legal vigente."
+    ],
+    "correcta": 3
+  },
+  {
+    "numero": 150,
+    "pregunta": "En la gestión administrativa y documental de la oficina de farmacia intervienen diferentes tipos de documentos que permiten registrar y justificar las distintas operaciones relacionadas con la adquisición, recepción, dispensación y control de los medicamentos y productos sanitarios. Dentro de esta documentación, algunos documentos se utilizan específicamente en los procesos de aprovisionamiento y recepción de mercancía procedente de los proveedores o distribuidores farmacéuticos. En relación con este aspecto, ¿qué acredita el documento denominado albarán?",
+    "respuestas": [
+      "La dispensación de un medicamento o producto sanitario a la persona usuaria en el momento de su entrega en la oficina de farmacia, como comprobante de la operación realizada.",
+      "La recepción de un pedido por parte de la farmacia procedente de un proveedor o distribuidor, indicando los productos entregados y permitiendo comprobar que coinciden con la solicitud realizada.",
+      "La prescripción médica emitida por un/una profesional sanitario/a autorizado/a, en la que se indican los medicamentos que deben ser dispensados a la persona paciente.",
+      "El precio final de venta al público de los medicamentos dispensados en la oficina de farmacia, utilizado como referencia para la facturación a la persona usuaria."
+    ],
+    "correcta": 1
+  },
+  {
+    "numero": 151,
+    "pregunta": "La farmacovigilancia tiene como objetivo:",
+    "respuestas": [
+      "Aumentar el consumo de medicamentos.",
+      "Controlar el stock.",
+      "Detectar, evaluar y prevenir reacciones adversas.",
+      "Sustituir los ensayos clínicos."
+    ],
+    "correcta": 2
+  },
+  {
+    "numero": 152,
+    "pregunta": "En relación con los procedimientos establecidos dentro del sistema de farmacovigilancia para la comunicación de posibles efectos no deseados asociados al uso de medicamentos, ¿a través de cuál de los siguientes instrumentos o mecanismos debe realizarse formalmente la notificación de una sospecha de reacción adversa detectada durante la práctica profesional en el ámbito sanitario?",
+    "respuestas": [
+      "La receta médica utilizada en el proceso de prescripción y dispensación de medicamentos, documento sanitario que recoge la indicación terapéutica y la identificación del medicamento prescrito a la persona paciente.",
+      "El sistema oficial de notificación establecido por las autoridades sanitarias para la comunicación de sospechas de reacciones adversas a medicamentos, que permite registrar, evaluar y analizar esta información dentro del sistema de farmacovigilancia.",
+      "El albarán empleado en los procesos de adquisición y recepción de medicamentos en la oficina de farmacia, documento que acredita la entrega de los productos por parte del proveedor o distribuidor.",
+      "La ficha de almacén utilizada para el control interno de existencias y movimientos de los medicamentos dentro del sistema de gestión del stock de la oficina de farmacia."
+    ],
+    "correcta": 1
+  },
+  {
+    "numero": 153,
+    "pregunta": "La documentación en la oficina de farmacia puede presentarse:",
+    "respuestas": [
+      "Solo en soporte papel.",
+      "Solo en soporte digital.",
+      "En soporte papel y/o informático.",
+      "Exclusivamente verbal."
+    ],
+    "correcta": 2
+  },
+  {
+    "numero": 154,
+    "pregunta": "En relación con las obligaciones de archivo y custodia de la documentación generada en el desarrollo de las actividades profesionales dentro de la oficina de farmacia, ¿durante qué periodo deben conservarse los documentos farmacéuticos para garantizar el cumplimiento de los requisitos legales y permitir su posible revisión por parte de las autoridades sanitarias competentes?",
+    "respuestas": [
+      "Según el criterio organizativo del propio establecimiento farmacéutico, que puede decidir libremente el tiempo de conservación de los documentos en función de sus necesidades administrativas.",
+      "Durante un periodo máximo aproximado de un año desde su emisión o utilización, tras el cual los documentos pueden eliminarse al considerarse finalizada su utilidad administrativa.",
+      "Únicamente hasta que el tratamiento farmacológico correspondiente haya finalizado, momento a partir del cual la documentación deja de tener relevancia para la práctica asistencial.",
+      "Durante los plazos establecidos por la normativa sanitaria vigente, que determina los periodos mínimos de conservación de la documentación relacionada con la actividad farmacéutica."
+    ],
+    "correcta": 3
+  },
+  {
+    "numero": 155,
+    "pregunta": "En el contexto de la organización de los servicios farmacéuticos dentro de los centros hospitalarios y en relación con las funciones que corresponden al servicio de farmacia hospitalaria en el ámbito asistencial, ¿cuál de las siguientes actividades forma parte de sus competencias principales?",
+    "respuestas": [
+      "La gestión, preparación, control y dispensación de medicamentos y productos sanitarios destinados a las personas pacientes ingresadas o atendidas en el hospital, garantizando su uso seguro y adecuado dentro del ámbito hospitalario.",
+      "La venta directa de medicamentos y productos sanitarios al público general que acude al hospital, siguiendo un modelo similar al funcionamiento de las oficinas de farmacia comunitarias.",
+      "La promoción y publicidad de medicamentos dirigidas a profesionales sanitarios o a pacientes con el objetivo de fomentar el consumo de determinados tratamientos farmacológicos.",
+      "La prescripción médica de tratamientos farmacológicos a las personas pacientes hospitalizadas, determinando el medicamento y la pauta terapéutica que deben seguir durante su proceso asistencial."
+    ],
+    "correcta": 0
+  },
+  {
+    "numero": 156,
+    "pregunta": "En relación con los procedimientos utilizados en los servicios de farmacia hospitalaria para solicitar y suministrar medicamentos a las distintas unidades asistenciales del hospital, ¿cómo pueden clasificarse las peticiones de medicamentos que se realizan dentro de este sistema de distribución?",
+    "respuestas": [
+      "Únicamente de forma verbal entre los/las profesionales sanitarios/as implicados/as, sin necesidad de utilizar procedimientos formales de registro o documentación dentro del sistema hospitalario.",
+      "Individuales o globales según las necesidades asistenciales de las unidades o de las personas pacientes, de acuerdo con los sistemas establecidos de solicitud y distribución de medicamentos en el hospital.",
+      "Exclusivamente con periodicidad mensual, mediante solicitudes agrupadas que incluyen todos los medicamentos necesarios para el funcionamiento ordinario de las unidades hospitalarias.",
+      "Sin necesidad de registro documental específico, gestionándose de forma informal en función de las necesidades que vayan surgiendo durante la actividad asistencial."
+    ],
+    "correcta": 1
+  },
+  {
+    "numero": 157,
+    "pregunta": "En relación con los procedimientos de gestión y control documental dentro de los servicios de farmacia hospitalaria, y teniendo en cuenta la necesidad de garantizar la correcta trazabilidad de los medicamentos dispensados en el ámbito hospitalario, ¿qué actuación debe realizarse con las órdenes hospitalarias una vez que han sido utilizadas en el proceso asistencial?",
+    "respuestas": [
+      "Desecharse tras su uso inmediato, al considerarse que su función queda finalizada una vez realizada la dispensación del medicamento correspondiente.",
+      "Entregarse al/a la paciente junto con el medicamento dispensado, para que pueda conservar el documento como justificante de la medicación administrada durante su estancia hospitalaria.",
+      "Archivarse correctamente siguiendo los procedimientos establecidos de gestión documental, con el fin de garantizar la trazabilidad de la medicación y permitir su consulta o revisión cuando sea necesario.",
+      "Guardarse exclusivamente en formato papel dentro de los archivos del servicio, sin posibilidad de utilizar sistemas informáticos o digitales para su almacenamiento."
+    ],
+    "correcta": 2
+  },
+  {
+    "numero": 158,
+    "pregunta": "La legislación farmacéutica regula principalmente:",
+    "respuestas": [
+      "La organización del hospital.",
+      "La fabricación, distribución y dispensación de medicamentos.",
+      "La formación del personal.",
+      "La publicidad general."
+    ],
+    "correcta": 1
+  },
+  {
+    "numero": 159,
+    "pregunta": "De acuerdo con la normativa sanitaria vigente que regula el funcionamiento de las oficinas de farmacia y la distribución de responsabilidades profesionales en relación con la dispensación de medicamentos y productos sanitarios, ¿a qué profesional corresponde legalmente la responsabilidad de realizar el acto de dispensación dentro de la oficina de farmacia?",
+    "respuestas": [
+      "Al/A la farmacéutico/a, como profesional sanitario legalmente habilitado para asumir la responsabilidad de la dispensación de medicamentos y garantizar su correcta utilización por parte de la persona paciente.",
+      "Al/A la técnico/a en farmacia, que participa en tareas de apoyo relacionadas con la gestión y preparación de medicamentos dentro de la oficina de farmacia.",
+      "Al personal administrativo encargado de gestionar los aspectos documentales y organizativos relacionados con la actividad del establecimiento farmacéutico.",
+      "A la propia persona usuaria o paciente que solicita el medicamento, quien decide libremente sobre la adquisición y utilización del tratamiento farmacológico."
+    ],
+    "correcta": 0
+  },
+  {
+    "numero": 160,
+    "pregunta": "Un documento obligatorio en la oficina de farmacia es:",
+    "respuestas": [
+      "El archivo publicitario.",
+      "El registro de medicamentos de especial control.",
+      "La historia clínica completa.",
+      "El libro de reclamaciones internas."
+    ],
+    "correcta": 1
+  },
+  {
+    "numero": 161,
+    "pregunta": "La correcta cumplimentación de la documentación garantiza:",
+    "respuestas": [
+      "Mayor rapidez en la venta.",
+      "Menor control.",
+      "Cumplimiento legal y trazabilidad del medicamento.",
+      "Reducción del stock."
+    ],
+    "correcta": 2
+  },
+  {
+    "numero": 162,
+    "pregunta": "En el marco de las actividades relacionadas con el sistema de farmacovigilancia y con la detección de posibles problemas asociados al uso de medicamentos, los distintos profesionales sanitarios que participan en la atención farmacéutica pueden colaborar en la identificación y comunicación de efectos no deseados observados en las personas pacientes. ¿De qué manera puede participar el/la técnico/a en farmacia en las actividades de farmacovigilancia dentro de su ámbito profesional?",
+    "respuestas": [
+      "Mediante la prescripción directa de medicamentos a las personas pacientes cuando se detecta la necesidad de modificar el tratamiento farmacológico.",
+      "A través del diagnóstico clínico de posibles patologías o efectos adversos observados en las personas pacientes durante la atención farmacéutica.",
+      "Mediante la notificación de sospechas de reacciones adversas a medicamentos a través de los sistemas establecidos dentro del programa de farmacovigilancia.",
+      "Mediante la autorización administrativa para la comercialización o utilización de determinados medicamentos dentro del sistema sanitario."
+    ],
+    "correcta": 2
+  },
+  {
+    "numero": 163,
+    "pregunta": "En el contexto de la organización del sistema sanitario y de la estructura funcional de los centros hospitalarios, los servicios de farmacia hospitalaria se integran dentro de la estructura asistencial del propio hospital, desarrollando funciones relacionadas con la gestión, preparación y dispensación de medicamentos para las personas pacientes atendidas en dicho centro. En relación con esta organización, ¿de qué institución dependen los servicios de farmacia hospitalaria?",
+    "respuestas": [
+      "De los centros hospitalarios en los que se encuentran integrados, formando parte de su estructura asistencial y organizativa dentro del sistema sanitario.",
+      "De oficinas de farmacia privadas que colaboran con los hospitales mediante acuerdos de suministro y gestión de medicamentos destinados a las personas pacientes ingresadas.",
+      "De mutuas privadas encargadas de gestionar los recursos farmacéuticos necesarios para la atención sanitaria dentro de los centros hospitalarios.",
+      "De los distribuidores farmacéuticos responsables del suministro de medicamentos a los hospitales y de la gestión del stock hospitalario."
+    ],
+    "correcta": 0
+  },
+  {
+    "numero": 164,
+    "pregunta": "La documentación farmacéutica contribuye a:",
+    "respuestas": [
+      "Incrementar ventas.",
+      "Garantizar seguridad y control del medicamento.",
+      "Eliminar la normativa.",
+      "Reducir la atención a la persona usuaria."
+    ],
+    "correcta": 1
+  },
+  {
+    "numero": 165,
+    "pregunta": "El archivo de la documentación debe realizarse de forma que:",
+    "respuestas": [
+      "Permita su rápida eliminación.",
+      "No requiera orden",
+      "Sea accesible a cualquier persona.",
+      "Facilite la localización y el control posterior."
+    ],
+    "correcta": 3
+  },
+  {
+    "numero": 166,
+    "pregunta": "La gestión documental adecuada en la oficina de farmacia permite:",
+    "respuestas": [
+      "Mejorar la calidad asistencial y cumplir la normativa vigente.",
+      "Reducir controles legales.",
+      "Sustituir al/a la farmacéutico/a.",
+      "Eliminar registros."
+    ],
+    "correcta": 0
+  },
+  {
+    "numero": 167,
+    "pregunta": "Una correcta organización del almacén farmacéutico permite principalmente:",
+    "respuestas": [
+      "Incrementar el volumen de pedidos realizados al proveedor.",
+      "Garantizar la adecuada conservación de los medicamentos y reducir errores en la dispensación.",
+      "Disminuir la necesidad de controles documentales.",
+      "Acelerar exclusivamente los procesos administrativos."
+    ],
+    "correcta": 1
+  },
+  {
+    "numero": 168,
+    "pregunta": "Las normas de seguridad e higiene en el almacén farmacéutico tienen como finalidad:",
+    "respuestas": [
+      "Mejorar la presentación comercial del producto.",
+      "Prevenir riesgos laborales y evitar la contaminación de los medicamentos.",
+      "Reducir el número de inventarios",
+      "Aumentar la rotación del stock."
+    ],
+    "correcta": 1
+  },
+  {
+    "numero": 169,
+    "pregunta": "El método FIFO aplicado a la gestión del almacén consiste en:",
+    "respuestas": [
+      "Dispensar primero los medicamentos más recientes.",
+      "Ordenar los productos por tamaño de envase.",
+      "Priorizar los medicamentos de mayor valor económico.",
+      "Utilizar en primer lugar los productos que entraron antes en el almacén."
+    ],
+    "correcta": 3
+  },
+  {
+    "numero": 170,
+    "pregunta": "La correcta conservación de los medicamentos termolábiles exige:",
+    "respuestas": [
+      "Almacenarlos a temperatura ambiente.",
+      "Revisarlos solo en el momento de la dispensación.",
+      "Separarlos únicamente por tamaño.",
+      "Mantener de forma continua la cadena de frío según las indicaciones del fabricante."
+    ],
+    "correcta": 3
+  },
+  {
+    "numero": 171,
+    "pregunta": "La diferenciación de zonas dentro del almacén farmacéutico tiene como objetivo:",
+    "respuestas": [
+      "Incrementar la capacidad de almacenamiento.",
+      "Facilitar la ordenación, localización y control de los productos.",
+      "Reducir el número de controles.",
+      "Evitar la clasificación de medicamentos."
+    ],
+    "correcta": 1
+  },
+  {
+    "numero": 172,
+    "pregunta": "En el ámbito de la identificación y gestión de los medicamentos dentro del sistema sanitario, existen distintos códigos y sistemas normalizados que permiten reconocer de forma precisa cada especialidad farmacéutica durante los procesos de prescripción, dispensación, almacenamiento y control. En relación con estos sistemas de identificación, ¿qué función cumple el denominado código nacional del medicamento?",
+    "respuestas": [
+      "Determinar el precio de venta de los medicamentos dispensados al público, estableciendo el importe económico que debe abonar la persona usuaria en el momento de la dispensación.",
+      "Identificar de forma única cada medicamento o especialidad farmacéutica dentro del sistema sanitario, facilitando su reconocimiento y gestión en los distintos procesos relacionados con su distribución y dispensación.",
+      "Indicar la posología o pauta de administración que debe seguir el/la paciente durante el tratamiento farmacológico prescrito por el/la profesional sanitario/a.",
+      "Registrar la receta médica utilizada en el proceso de prescripción, permitiendo vincular el medicamento dispensado con el documento sanitario correspondiente."
+    ],
+    "correcta": 1
+  },
+  {
+    "numero": 173,
+    "pregunta": "En el reenvasado de medicamentos en farmacia hospitalaria es obligatorio:",
+    "respuestas": [
+      "Priorizar criterios estéticos.",
+      "Cumplir requisitos de seguridad, identificación y trazabilidad del medicamento.",
+      "Indicar únicamente el nombre comercial.",
+      "Eliminar la fecha de caducidad original."
+    ],
+    "correcta": 1
+  },
+  {
+    "numero": 174,
+    "pregunta": "En los procesos de reenvasado de medicamentos realizados en los servicios de farmacia, especialmente en el ámbito hospitalario, es necesario incluir en el nuevo envase una serie de datos identificativos que permitan garantizar la correcta identificación del medicamento, así como su uso seguro y adecuado. En relación con el etiquetado de los medicamentos reenvasados, ¿cuál de los siguientes datos debe figurar obligatoriamente en el nuevo envase?",
+    "respuestas": [
+      "",
+      "",
+      "",
+      "El precio de adquisición del medicamento por parte del servicio de farmacia, utilizado como referencia económica en la gestión interna del medicamento. El nombre del proveedor o distribuidor farmacéutico que suministró el medicamento al establecimiento sanitario o a la oficina de farmacia. La fecha de caducidad correspondiente al medicamento reenvasado, con el fin de garantizar su utilización dentro del periodo de estabilidad y seguridad establecidos. El número de unidades incluidas en el pedido realizado al proveedor, empleado para el control administrativo de las adquisiciones de medicamentos."
+    ],
+    "correcta": 2
+  },
+  {
+    "numero": 175,
+    "pregunta": "El control sistemático de caducidades permite:",
+    "respuestas": [
+      "Reducir el número de pedidos.",
+      "Evitar la dispensación de medicamentos caducados y garantizar la seguridad del paciente.",
+      "Incrementar la rotación comercial.",
+      "Simplificar la contabilidad."
+    ],
+    "correcta": 1
+  },
+  {
+    "numero": 176,
+    "pregunta": "El cuaderno de registro de medicación en farmacia hospitalaria sirve para:",
+    "respuestas": [
+      "Registrar ventas al público.",
+      "Controlar las entradas y salidas de medicamentos.",
+      "Notificar reacciones adversas.",
+      "Sustituir la prescripción médica."
+    ],
+    "correcta": 1
+  },
+  {
+    "numero": 177,
+    "pregunta": "El inventario permanente se caracteriza por:",
+    "respuestas": [
+      "Realizarse una vez al año.",
+      "Actualizarse tras cada movimiento de entrada o salida de productos.",
+      "No registrar las salidas.",
+      "Ser opcional en la farmacia."
+    ],
+    "correcta": 1
+  },
+  {
+    "numero": 178,
+    "pregunta": "En el ámbito de la gestión y organización del almacén farmacéutico, existen diferentes instrumentos y registros destinados a controlar de manera sistemática las existencias disponibles y los movimientos de entrada y salida de los distintos medicamentos y productos sanitarios. En relación con estos sistemas de control, ¿qué función desempeñan las fichas de almacén dentro de la gestión del stock en la oficina de farmacia o en los servicios farmacéuticos?",
+    "respuestas": [
+      "Prescribir medicamentos a las personas pacientes en función de las necesidades terapéuticas detectadas durante la atención farmacéutica.",
+      "Sustituir completamente el proceso de inventario periódico, eliminando la necesidad de realizar comprobaciones físicas de las existencias almacenadas.",
+      "Informar directamente a la persona usuaria sobre las características, indicaciones o condiciones de utilización de los medicamentos disponibles en el establecimiento.",
+      "Controlar el stock existente y registrar los movimientos de entrada y salida de cada producto almacenado, permitiendo un seguimiento adecuado de las existencias y su correcta gestión."
+    ],
+    "correcta": 3
+  },
+  {
+    "numero": 179,
+    "pregunta": "En la gestión del almacén farmacéutico se emplean distintos métodos de organización y rotación de productos destinados a optimizar la utilización de las existencias y a garantizar la adecuada conservación de los medicamentos almacenados. En relación con estos sistemas de rotación, ¿qué efecto produce la aplicación del método FIFO en la gestión del stock de medicamentos?",
+    "respuestas": [
+      "Incrementar el valor económico global del stock almacenado mediante la priorización de determinados lotes de medicamentos.",
+      "Aumentar la complejidad de la organización del almacén farmacéutico al requerir procesos adicionales de clasificación y control de los productos.",
+      "Reducir el riesgo de caducidades al asegurar que los medicamentos que entraron antes en el almacén sean utilizados o dispensados antes que los de incorporación más reciente.",
+      "Disminuir la trazabilidad de los medicamentos almacenados al priorizar la rotación física de los productos frente al control documental de los mismos."
+    ],
+    "correcta": 2
+  },
+  {
+    "numero": 180,
+    "pregunta": "La valoración de existencias tiene como finalidad:",
+    "respuestas": [
+      "Conocer el valor económico del stock almacenado.",
+      "Clasificar medicamentos por uso.",
+      "Detectar reacciones adversas.",
+      "Controlar la prescripción."
+    ],
+    "correcta": 0
+  },
+  {
+    "numero": 181,
+    "pregunta": "Entre las causas más frecuentes de alteración de los medicamentos se encuentra:",
+    "respuestas": [
+      "El orden de colocación.",
+      "La exposición inadecuada a luz, temperatura o humedad.",
+      "El uso de códigos nacionales.",
+      "La rotación del stock."
+    ],
+    "correcta": 1
+  },
+  {
+    "numero": 182,
+    "pregunta": "En el proceso de almacenamiento y conservación de los medicamentos, determinadas condiciones ambientales inadecuadas o el transcurso del tiempo pueden provocar alteraciones que afectan a su estabilidad y calidad, pudiendo comprometer su seguridad y eficacia terapéutica. En relación con estas posibles alteraciones, ¿cuál de las siguientes manifestaciones puede indicar que un medicamento ha sufrido una pérdida de calidad?",
+    "respuestas": [
+      "La presencia de una mayor eficacia terapéutica del medicamento, derivada de posibles cambios en la concentración del principio activo.",
+      "La aparición de cambios en características físicas como el color, el olor o la consistencia del medicamento, lo que puede indicar una alteración de su estabilidad o calidad.",
+      "Mayor duración.",
+      "Reducción del riesgo para la persona paciente."
+    ],
+    "correcta": 1
+  },
+  {
+    "numero": 183,
+    "pregunta": "En relación con las condiciones necesarias para garantizar la estabilidad, seguridad y eficacia de los medicamentos durante su almacenamiento en la oficina de farmacia o en los servicios farmacéuticos, ¿qué principio debe seguirse para asegurar una correcta conservación de los medicamentos?",
+    "respuestas": [
+      "Seguir las indicaciones establecidas por el fabricante y cumplir con la normativa sanitaria vigente en relación con las condiciones de almacenamiento y conservación de los medicamentos.",
+      "Almacenar todos los medicamentos conjuntamente en un mismo espacio del almacén farmacéutico con el objetivo de simplificar su organización y facilitar su localización.",
+      "Evitar la realización de controles periódicos sobre las condiciones de conservación de los medicamentos, siempre que se mantenga un orden adecuado en el almacén.",
+      "Reducir el volumen de stock almacenado al mínimo posible con el fin de evitar la necesidad de aplicar medidas específicas de control y conservación."
+    ],
+    "correcta": 0
+  },
+  {
+    "numero": 184,
+    "pregunta": "En relación con los procedimientos establecidos para la gestión de medicamentos que deben ser retirados o devueltos dentro de la oficina de farmacia o de los servicios farmacéuticos, y teniendo en cuenta las obligaciones administrativas y sanitarias que regulan estas actuaciones, ¿de qué manera debe realizarse el procedimiento de devolución de medicamentos?",
+    "respuestas": [
+      "A criterio del propio establecimiento farmacéutico, que puede decidir libremente el procedimiento de devolución en función de sus necesidades organizativas internas.",
+      "Conforme a la normativa legal vigente y utilizando la documentación correspondiente que permita registrar y justificar adecuadamente el proceso de devolución.",
+      "Únicamente al final del año natural, agrupando todos los medicamentos devueltos en un único procedimiento administrativo anual.",
+      "Sin necesidad de realizar ningún tipo de registro documental específico, siempre que el medicamento sea retirado físicamente del almacén."
+    ],
+    "correcta": 1
+  },
+  {
+    "numero": 185,
+    "pregunta": "En el contexto de la gestión moderna del almacén farmacéutico, los sistemas informáticos se utilizan como herramientas de apoyo para mejorar la organización de las existencias y facilitar el seguimiento de los medicamentos y productos sanitarios almacenados. En relación con estas herramientas de gestión informatizada, ¿qué función permiten realizar las aplicaciones informáticas utilizadas en el control del almacén farmacéutico?",
+    "respuestas": [
+      "Prescribir medicamentos directamente a los pacientes a través del sistema informático utilizado en la gestión de la farmacia.",
+      "Eliminar completamente la necesidad de realizar inventarios o controles periódicos sobre las existencias almacenadas en el establecimiento.",
+      "Controlar el stock disponible, registrar las fechas de caducidad y gestionar los movimientos de entrada y salida de los distintos productos almacenados.",
+      "Sustituir al personal responsable de la gestión del almacén mediante la automatización total de las actividades relacionadas con el control de medicamentos."
+    ],
+    "correcta": 2
+  },
+  {
+    "numero": 186,
+    "pregunta": "En el funcionamiento de la oficina de farmacia y en la organización del almacén farmacéutico, la correcta gestión de las existencias constituye un elemento fundamental para garantizar la disponibilidad de los medicamentos y el adecuado desarrollo de la actividad asistencial. En relación con este aspecto, ¿a qué contribuye una adecuada gestión del almacén farmacéutico dentro del sistema de atención sanitaria?",
+    "respuestas": [
+      "Garantizar la seguridad en la conservación y manejo de los medicamentos, mejorar la eficiencia en la gestión de las existencias y contribuir a mantener una adecuada calidad en la atención asistencial prestada a las personas usuarias.",
+      "Incrementar la probabilidad de errores en la gestión de medicamentos debido al aumento de los procesos administrativos relacionados con el control del stock.",
+      "Reducir el tiempo dedicado a la atención directa a la persona usuaria al priorizar exclusivamente las actividades relacionadas con la gestión interna del almacén.",
+      "Eliminar la necesidad de aplicar controles legales o normativos relacionados con la conservación y distribución de los medicamentos dentro del establecimiento sanitario."
+    ],
+    "correcta": 0
+  },
+  {
+    "numero": 187,
+    "pregunta": "En los procedimientos de gestión y control de los pedidos de medicamentos y productos sanitarios que llegan a la oficina de farmacia procedentes de los distribuidores farmacéuticos, es necesario realizar determinadas comprobaciones antes de proceder a su almacenamiento o utilización. En relación con este proceso de recepción de pedidos, ¿qué actuación resulta obligatoria realizar en el momento de recibir la mercancía?",
+    "respuestas": [
+      "Almacenar directamente el pedido recibido en el lugar correspondiente del almacén farmacéutico sin efectuar comprobaciones previas sobre el contenido de la entrega.",
+      "Comprobar que los productos recibidos coinciden con los solicitados en el pedido realizado y con la información reflejada en el albarán de entrega correspondiente.",
+      "Registrar únicamente el importe económico total de la mercancía recibida con el objetivo de facilitar la gestión contable del establecimiento.",
+      "Dispensar de manera inmediata los productos recibidos a las personas usuarias que los soliciten, sin realizar previamente procesos de verificación o control."
+    ],
+    "correcta": 1
+  },
+  {
+    "numero": 188,
+    "pregunta": "En los procesos de gestión administrativa relacionados con la recepción de pedidos de medicamentos y productos sanitarios en la oficina de farmacia, se utilizan distintos documentos que permiten comprobar la correspondencia entre lo solicitado y lo recibido. En relación con esta documentación utilizada en el proceso de suministro, ¿cuál es la función principal del documento denominado albarán?",
+    "respuestas": [
+      "Justificar la dispensación de un medicamento a la persona usuaria en el momento de su entrega en la oficina de farmacia, actuando como comprobante de la operación realizada.",
+      "Registrar la prescripción médica realizada por el/la profesional sanitario/a, vinculando el medicamento dispensado con la indicación terapéutica correspondiente.",
+      "Sustituir completamente a la factura emitida por el proveedor o distribuidor farmacéutico en los procesos de facturación de los productos suministrados.",
+      "Verificar que los productos entregados por el proveedor o distribuidor coinciden con los que fueron previamente solicitados por la oficina de farmacia."
+    ],
+    "correcta": 3
+  },
+  {
+    "numero": 189,
+    "pregunta": "En el proceso de recepción y verificación de pedidos de medicamentos y productos sanitarios en la oficina de farmacia, es necesario comparar la mercancía recibida con la solicitud realizada y con la documentación que acompaña al envío. Cuando se detecta una diferencia entre el pedido efectuado y los datos reflejados en el albarán de entrega, ¿qué actuación debe realizarse según los procedimientos habituales de control de incidencias?",
+    "respuestas": [
+      "Aceptar el pedido recibido sin realizar ninguna actuación adicional, considerando que las posibles diferencias podrán resolverse en pedidos posteriores.",
+      "Comunicar la incidencia detectada al proveedor o distribuidor correspondiente y proceder a su registro documental para su posterior seguimiento y resolución.",
+      "Dispensar igualmente los productos recibidos a las personas usuarias que los soliciten, independientemente de que exista una discrepancia con la documentación del pedido.",
+      "Destruir el albarán que acompaña a la entrega para evitar confusiones en la gestión administrativa del pedido recibido."
+    ],
+    "correcta": 1
+  },
+  {
+    "numero": 190,
+    "pregunta": "En relación con la regulación legal aplicable a determinados medicamentos que presentan un mayor potencial de abuso, dependencia o uso indebido, la normativa sanitaria establece medidas específicas destinadas a controlar su adquisición, almacenamiento y dispensación dentro de los establecimientos farmacéuticos. En este contexto, ¿a qué tipo de control están sometidos los medicamentos clasificados como estupefacientes?",
+    "respuestas": [
+      "A la normativa general aplicable al resto de los medicamentos, sin necesidad de aplicar procedimientos adicionales de control en su adquisición o dispensación.",
+      "A la ausencia de controles específicos dentro de la oficina de farmacia, pudiendo gestionarse de forma similar al resto de los medicamentos disponibles en el establecimiento.",
+      "A un régimen de venta libre para las personas usuarias, sin necesidad de requisitos especiales relacionados con su prescripción, registro o custodia.",
+      "A condiciones especiales de adquisición, custodia y registro establecidas por la normativa vigente, con el fin de garantizar un control estricto sobre su utilización."
+    ],
+    "correcta": 3
+  },
+  {
+    "numero": 191,
+    "pregunta": "En relación con las obligaciones de control y seguimiento establecidas por la normativa sanitaria para los medicamentos clasificados como estupefacientes, es necesario mantener un registro específico que permita documentar de forma rigurosa las entradas, salidas y movimientos de estos medicamentos dentro de la oficina de farmacia. En este contexto, ¿de qué manera debe realizarse el registro de los medicamentos estupefacientes?",
+    "respuestas": [
+      "De forma verbal entre los/las profesionales responsables del establecimiento, comunicando los movimientos de estos medicamentos sin necesidad de utilizar un sistema documental específico.",
+      "En un libro oficial debidamente cumplimentado, en el que se registren de forma precisa las entradas y salidas de los medicamentos estupefacientes conforme a la normativa vigente.",
+      "En hojas sueltas de uso interno del establecimiento, que posteriormente pueden archivarse junto con el resto de la documentación administrativa de la farmacia.",
+      "Únicamente al final del ejercicio anual, agrupando en un único registro todos los movimientos realizados durante el periodo correspondiente."
+    ],
+    "correcta": 1
+  },
+  {
+    "numero": 192,
+    "pregunta": "Una de las principales ventajas del control informatizado de pedidos es:",
+    "respuestas": [
+      "Mayor consumo.",
+      "Reducción de errores y mejora de la trazabilidad.",
+      "Aumento de incidencias.",
+      "Menor seguridad."
+    ],
+    "correcta": 1
+  },
+  {
+    "numero": 193,
+    "pregunta": "La documentación de pedidos debe conservarse:",
+    "respuestas": [
+      "Según criterio de la farmacia.",
+      "Hasta finalizar el tratamiento.",
+      "Durante los plazos establecidos por la legislación.",
+      "Un máximo de seis meses."
+    ],
+    "correcta": 2
+  },
+  {
+    "numero": 194,
+    "pregunta": "El objetivo principal del control de pedidos es:",
+    "respuestas": [
+      "Incrementar el número de proveedores.",
+      "Garantizar la disponibilidad y seguridad de los medicamentos.",
+      "Reducir la atención a la persona usuaria.",
+      "Aumentar el volumen de ventas."
+    ],
+    "correcta": 1
+  },
+  {
+    "numero": 195,
+    "pregunta": "Los medicamentos psicotrópicos requieren controles específicos debido a que:",
+    "respuestas": [
+      "Son de uso exclusivo hospitalario.",
+      "Tienen bajo impacto sanitario.",
+      "No necesitan receta.",
+      "Presentan riesgo de dependencia y abuso."
+    ],
+    "correcta": 3
+  },
+  {
+    "numero": 196,
+    "pregunta": "En los procesos de gestión y aprovisionamiento de medicamentos y productos sanitarios en la oficina de farmacia, la solicitud de pedidos a los proveedores o distribuidores farmacéuticos puede realizarse mediante distintos procedimientos que permiten garantizar la correcta transmisión de la información relativa a los productos solicitados. En relación con estos procedimientos utilizados para efectuar pedidos, ¿cuál de los siguientes constituye uno de los sistemas habituales de transmisión de pedidos en la oficina de farmacia?",
+    "respuestas": [
+      "La comunicación oral directa entre los/las profesionales de la farmacia y el distribuidor farmacéutico, sin utilizar medios documentales o sistemas de registro específicos.",
+      "Los sistemas informatizados y electrónicos de transmisión de pedidos, que permiten enviar de forma automatizada la solicitud de medicamentos y registrar la operación dentro del sistema de gestión.",
+      "La utilización de recetas médicas emitidas por profesionales sanitarios, empleadas como mecanismo para solicitar medicamentos a los distribuidores farmacéuticos.",
+      "La difusión de información publicitaria relacionada con medicamentos o productos sanitarios dirigida a los proveedores del sector farmacéutico."
+    ],
+    "correcta": 1
+  },
+  {
+    "numero": 197,
+    "pregunta": "Los sistemas informáticos utilizados en la gestión de solicitudes en la oficina de farmacia o en los servicios de farmacia permiten la transmisión y recepción de solicitudes de forma digital y automatizada, facilitando el registro y seguimiento de la información. En este contexto, ¿cuál es la principal ventaja de recibir pedidos de forma electrónica?",
+    "respuestas": [
+      "Aumentar los errores, ya que cuando se automatiza el proceso el control es más difícil y la correcta verificación de la información puede ser más compleja.",
+      "Mejora de la trazabilidad y reducción de incidencias debido al registro y control sistemático de la información de las solicitudes mediante sistemas informáticos.",
+      "La eliminación de la documentación, ya que en el momento de la gestión digital de las solicitudes no es necesario mantener ningún registro o control documental.",
+      "Evitar controles porque los sistemas electrónicos simplifican el proceso de solicitudes y se reducen los procedimientos de verificación."
+    ],
+    "correcta": 1
+  },
+  {
+    "numero": 198,
+    "pregunta": "En el funcionamiento de los botiquines de las distintas unidades asistenciales de un centro sanitario, la reposición de medicamentos y productos sanitarios debe realizarse siguiendo procedimientos establecidos que permitan garantizar el control adecuado de los suministros y el seguimiento de los productos dispensados. En relación con estos procedimientos, ¿cómo deben gestionarse las peticiones de reposición de botiquines dentro del sistema de control de medicamentos?",
+    "respuestas": [
+      "Realizarse de forma oral entre los/las profesionales implicados/as, sin necesidad de dejar constancia documental de la solicitud realizada.",
+      "Registrarse adecuadamente mediante los sistemas o documentos establecidos, con el fin de garantizar el control de las existencias y la trazabilidad de los medicamentos suministrados.",
+      "Llevarse a cabo sin necesidad de autorización previa por parte del servicio responsable de la gestión de medicamentos dentro del centro sanitario.",
+      "Realizarse sin tener en cuenta el stock existente en el botiquín o en el almacén del servicio farmacéutico correspondiente."
+    ],
+    "correcta": 1
+  },
+  {
+    "numero": 199,
+    "pregunta": "En el contexto de la organización y funcionamiento de los servicios de farmacia hospitalaria, la gestión y el control de los pedidos de medicamentos constituyen un elemento esencial para asegurar el suministro adecuado de tratamientos a las distintas unidades asistenciales del hospital. En relación con este proceso, ¿a qué contribuye el control adecuado de los pedidos de medicamentos en el ámbito de la farmacia hospitalaria?",
+    "respuestas": [
+      "",
+      "",
+      "",
+      "A generar desorganización en el control del stock disponible dentro del servicio de farmacia, dificultando la planificación del suministro de medicamentos. A garantizar la continuidad asistencial de las personas pacientes atendidos/as en el hospital, asegurando la disponibilidad de los medicamentos necesarios para los tratamientos prescritos. A eliminar la necesidad de mantener registros documentales relacionados con la adquisición y distribución de medicamentos dentro del hospital. A reducir los niveles de seguridad en la gestión de los medicamentos al simplificar los procedimientos de control y supervisión"
+    ],
+    "correcta": 1
+  },
+  {
+    "numero": 200,
+    "pregunta": "En el funcionamiento de la oficina de farmacia, la correcta planificación, gestión y control de los pedidos de medicamentos y productos sanitarios constituye un elemento clave para asegurar el adecuado abastecimiento del establecimiento y el desarrollo eficiente de la actividad asistencial. En relación con este proceso de gestión, ¿qué efecto tiene una adecuada gestión de los pedidos dentro de la organización de la farmacia?",
+    "respuestas": [
+      "",
+      "Permitir evitar la aplicación de la normativa sanitaria relacionada con la adquisición y control de los medicamentos dentro del establecimiento farmacéutico.",
+      "",
+      "Optimizar los recursos disponibles y garantizar una adecuada calidad asistencial, asegurando la disponibilidad de los medicamentos necesarios para la atención a las personas usuarias. Reducir la necesidad de aplicar controles legales sobre la adquisición, almacenamiento y dispensación de los medicamentos en la oficina de farmacia. Eliminar la documentación administrativa relacionada con la gestión de pedidos, simplificando los procedimientos internos de la farmacia."
+    ],
+    "correcta": 1
+  }
+]

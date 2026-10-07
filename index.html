@@ -1,0 +1,373 @@
+<!DOCTYPE html>
+
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="manifest" href="manifest.json">
+    <title>Mis Tests</title>
+    <link rel="stylesheet" href="styles.css?v=10001">
+</head>
+
+<body>
+
+<main class="app">
+
+    <!-- ========================= -->
+    <!-- PANTALLA INICIAL -->
+    <!-- ========================= -->
+
+    <section id="inicio" class="pantalla">
+
+        <h1>MIS TESTS</h1>
+
+        <p class="subtitulo">
+            Selecciona el contenido
+        </p>
+
+        <div class="selector">
+            <button class="opcion-contenido activa" data-tipo="comun">
+                📘 TEMA COMÚN
+            </button>
+
+            <button class="opcion-contenido" data-tipo="especifico">
+                💊 AUXILIAR DE FARMACIA
+            </button>
+
+            <button class="opcion-contenido" data-tipo="todos">
+                📚 COMÚN + ESPECÍFICO
+            </button>
+        </div>
+
+        <p class="subtitulo">
+            Selecciona el número de preguntas
+        </p>
+
+        <div class="selector">
+            <button class="opcion-numero activa" data-numero="10">
+                10
+            </button>
+
+            <button class="opcion-numero" data-numero="20">
+                20
+            </button>
+        </div>
+
+        <button id="empezar" class="principal">
+            HACER EXAMEN
+        </button>
+
+        <button id="verHistorial"
+                class="principal boton-secundario">
+            HISTORIAL DE RESULTADOS
+        </button>
+
+        <button id="verEstadisticas"
+                class="principal boton-secundario">
+            ESTADÍSTICAS
+        </button>
+
+        <button id="repasarFallos"
+                class="principal boton-secundario">
+            REPASAR FALLOS
+        </button>
+        <button id="simulacros"
+                class="principal boton-secundario">
+            SIMULACROS
+        </button>
+
+        </section>
+    <section id="simulacroPantalla"
+             class="pantalla oculto">
+
+        <h1>SIMULACRO DE EXAMEN</h1>
+
+        <div class="estadisticas">
+
+            <p>
+                <strong>110 preguntas</strong>
+            </p>
+
+            <p>
+                📘 44 preguntas de Tema Común
+            </p>
+
+            <p>
+                💊 66 preguntas de Auxiliar de Farmacia
+            </p>
+
+            <p>
+                ⏱️ Tiempo disponible:
+                <strong>1 hora y 30 minutos</strong>
+            </p>
+
+        </div>
+
+        <button id="comenzarSimulacro"
+                class="principal">
+            COMENZAR SIMULACRO
+        </button>
+
+        <button id="volverInicioSimulacro"
+                class="principal">
+            VOLVER AL INICIO
+        </button>
+
+    </section>
+    
+    <!-- ========================= -->
+    <!-- REVISIÓN DEL SIMULACRO -->
+    <!-- ========================= -->
+
+    <section id="revisionSimulacroPantalla"
+             class="pantalla oculto">
+
+        <h1>REVISAR SIMULACRO</h1>
+
+        <div id="datosRevisionSimulacro"
+             class="estadisticas">
+        </div>
+
+        <button id="revisarSinContestar"
+                class="principal">
+            REVISAR PREGUNTAS SIN CONTESTAR
+        </button>
+
+        <button id="finalizarSimulacro"
+                class="principal boton-secundario">
+            FINALIZAR SIMULACRO
+        </button>
+
+    </section>
+    
+    <section id="resultadoSimulacroPantalla"
+             class="pantalla oculto">
+
+        <h1>SIMULACRO FINALIZADO</h1>
+
+        <div id="datosResultadoSimulacro"
+             class="estadisticas">
+        </div>
+
+        <button id="verCorreccionSimulacro"
+                class="principal">
+            VER CORRECCIÓN
+        </button>
+
+        <button id="volverInicioResultadoSimulacro"
+                class="principal">
+            VOLVER AL INICIO
+        </button>
+    </section>
+    
+    <section id="correccionSimulacroPantalla"
+             class="pantalla oculto">
+
+        <h1>CORRECCIÓN DEL SIMULACRO</h1>
+
+        <div id="datosCorreccionSimulacro"
+             class="estadisticas">
+        </div>
+
+        <button id="volverResultadoCorreccionSimulacro"
+                class="principal">
+            VOLVER AL RESULTADO
+        </button>
+
+    </section>
+<!-- ========================= -->
+    <!-- PANTALLA DEL EXAMEN -->
+    <!-- ========================= -->
+
+    <section id="examen" class="pantalla oculto">
+        
+        <div id="temporizadorSimulacro"
+             class="temporizador-simulacro">
+            90:00
+        </div>
+
+        <div id="progreso">
+            <div class="progreso-info">
+                <span id="numeroPregunta">Pregunta 1 de 10</span>
+                <span id="porcentaje">10%</span>
+            </div>
+
+            <div class="barra-progreso">
+                <div id="barraProgreso"></div>
+            </div>
+        </div>
+
+        <h2 id="pregunta"></h2>
+
+        <div id="respuestas" class="respuestas"></div>
+
+        <button id="siguiente"
+                class="principal"
+                disabled>
+            SIGUIENTE
+        </button>
+        <button id="volverInicioExamen"
+                class="secundario">
+            ← VOLVER AL INICIO
+        </button>
+
+    </section>
+
+    <!-- ========================= -->
+    <!-- PANTALLA DE RESULTADO -->
+    <!-- ========================= -->
+
+    <section id="resultado" class="pantalla oculto">
+
+        <h1>RESULTADO</h1>
+
+        <div id="resultadoTexto"
+             class="resultado">
+        </div>
+
+        <button id="correccion"
+                class="principal boton-secundario">
+            VER CORRECCIÓN
+        </button>
+
+        <button id="nuevo"
+                class="principal">
+            HACER OTRO EXAMEN
+        </button>
+        <button id="verHistorialResultado"
+                class="principal boton-secundario">
+            HISTORIAL DE RESULTADOS
+        </button>
+
+    </section>
+   
+
+
+    <!-- ========================= -->
+    <!-- PANTALLA DE CORRECCIÓN -->
+    <!-- ========================= -->
+
+    <section id="correccionPantalla"
+             class="pantalla oculto">
+
+        <h1>CORRECCIÓN</h1>
+
+        <div id="listaCorreccion"
+             class="lista-correccion">
+        </div>
+
+        <button id="volverResultado"
+                class="principal">
+            VOLVER AL RESULTADO
+        </button>
+
+        <button id="nuevoDesdeCorreccion"
+                class="principal boton-secundario">
+            HACER OTRO EXAMEN
+        </button>
+        <button id="verHistorialCorreccion"
+                class="principal boton-secundario">
+            HISTORIAL DE RESULTADOS
+        </button>
+
+    </section>
+
+
+    <!-- ========================= -->
+    <!-- PANTALLA DE HISTORIAL -->
+    <!-- ========================= -->
+
+    <section id="historialPantalla" class="pantalla oculto">
+
+        <h1>HISTORIAL DE RESULTADOS</h1>
+
+        <div id="listaHistorial" class="lista-historial">
+        </div>
+
+        <button id="volverInicioHistorial"
+                class="principal">
+            VOLVER AL INICIO
+        </button>
+
+    </section>
+    <!-- ========================= -->
+    <!-- PANTALLA DE ESTADÍSTICAS -->
+    <!-- ========================= -->
+
+    <section id="estadisticasPantalla"
+             class="pantalla oculto">
+
+        <h1>ESTADÍSTICAS</h1>
+
+        <div id="datosEstadisticas"
+             class="estadisticas">
+
+        </div>
+
+        <button id="volverInicioEstadisticas"
+                class="principal">
+            VOLVER AL INICIO
+        </button>
+
+    </section>
+    
+    <!-- ========================= -->
+    <!-- PANTALLA DE REPASO DE FALLOS -->
+    <!-- ========================= -->
+    <section id="repasoFallosPantalla"
+             class="pantalla oculto">
+
+             <h1>REPASAR FALLOS</h1>
+
+        <div id="datosFallos"
+             class="estadisticas">
+        </div>
+
+        <p class="subtitulo">
+            Selecciona qué fallos quieres repasar
+        </p>
+
+        <div class="selector">
+
+            <button class="opcion-repaso activa"
+                    data-repaso="comun">
+                📘 TEMA COMÚN
+            </button>
+
+            <button class="opcion-repaso"
+                    data-repaso="especifico">
+                💊 AUXILIAR DE FARMACIA
+            </button>
+
+            <button class="opcion-repaso"
+                    data-repaso="todos">
+                📚 TODOS LOS FALLOS
+            </button>
+
+        </div>
+
+        <button id="empezarRepasoFallos"
+                class="principal">
+            EMPEZAR REPASO
+        </button>
+        <button id="borrarTodosFallos"
+                class="principal boton-secundario">
+            🗑️ BORRAR TODOS LOS FALLOS
+        </button>
+
+        <button id="volverInicioFallos"
+                class="principal">
+            VOLVER AL INICIO
+        </button>
+
+    </section>
+    </section>
+
+
+</main>
+
+
+<script src="app.js?v=10002"></script>
+
+</body>
+</html>
