@@ -632,6 +632,37 @@ document.querySelectorAll(".opcion-contenido").forEach(boton => {
 
 });
 
+
+// ==========================================
+// SELECCIONAR ORDEN DE LAS RESPUESTAS
+// ==========================================
+
+let modoRespuestas = "original";
+
+document.querySelectorAll(".opcion-respuestas").forEach(boton => {
+
+   boton.addEventListener("click", () => {
+
+       document
+           .querySelectorAll(".opcion-respuestas")
+           .forEach(b => {
+               b.classList.remove("activa");
+           });
+
+       boton.classList.add("activa");
+
+       modoRespuestas = boton.dataset.respuestas;
+
+       console.log(
+           "Orden de respuestas seleccionado:",
+           modoRespuestas
+       );
+
+   });
+
+});
+
+
 // ==========================================
 // SELECCIONAR TIPO DE REPASO
 // ==========================================
@@ -778,6 +809,9 @@ function comenzarExamen() {
     // Un examen normal deja de ser un repaso
     esRepasoFallos = false;
 
+    // Reiniciar el estado del simulacro
+    simulacroActivo = false;
+    enRevisionSimulacro = false;
     console.log(
         "COMENZAR EXAMEN",
         tipoSeleccionado,
@@ -950,8 +984,12 @@ function mostrarPreguntaSimulacro() {
 
         });
 
+    
+    // Elegimos el orden de las respuestas
+
     const respuestasMezcladas =
-        mezclar(respuestas);
+        respuestas;
+
 
     respuestasMezcladas.forEach(
         (respuesta, indice) => {
@@ -1280,8 +1318,11 @@ function mostrarPregunta() {
 
     // Mezclamos las respuestas
 
+
     const respuestasMezcladas =
-        mezclar(respuestas);
+        modoRespuestas === "aleatorio"
+            ? mezclar(respuestas)
+            : respuestas;
 
 
     // Las mostramos

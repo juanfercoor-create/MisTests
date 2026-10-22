@@ -533,3 +533,26 @@ h1 {
     margin-left: auto;
     margin-right: auto;
 }
+
+/* Selector del orden de las respuestas */
+
+.opcion-respuestas {
+    background: white;
+    color: #333;
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    padding: 12px 16px;
+    cursor: pointer;
+    font-weight: normal;
+    transition: background 0.2s, color 0.2s;
+}
+
+/* Opción seleccionada */
+
+
+.opcion-respuestas.activa {
+    background: #1877f2 !important;
+    color: white !important;
+    border: 2px solid #1877f2 !important;
+    font-weight: bold !important;
+}

@@ -1906,10 +1906,10 @@
     "numero": 174,
     "pregunta": "En los procesos de reenvasado de medicamentos realizados en los servicios de farmacia, especialmente en el ámbito hospitalario, es necesario incluir en el nuevo envase una serie de datos identificativos que permitan garantizar la correcta identificación del medicamento, así como su uso seguro y adecuado. En relación con el etiquetado de los medicamentos reenvasados, ¿cuál de los siguientes datos debe figurar obligatoriamente en el nuevo envase?",
     "respuestas": [
-      "El precio de adquisición del medicamento por parte del servicio de farmacia, utilizado como referencia económica en la gestión interna del medicamento.",
-      "El nombre del proveedor o distribuidor farmacéutico que suministró el medicamento al establecimiento sanitario o a la oficina de farmacia.",
-      "La fecha de caducidad correspondiente al medicamento reenvasado, con el fin de garantizar su utilización dentro del periodo de estabilidad y seguridad establecidos.",
-      "El número de unidades incluidas en el pedido realizado al proveedor, empleado para el control administrativo de las adquisiciones de medicamentos."
+      "",
+      "",
+      "",
+      "El precio de adquisición del medicamento por parte del servicio de farmacia, utilizado como referencia económica en la gestión interna del medicamento. El nombre del proveedor o distribuidor farmacéutico que suministró el medicamento al establecimiento sanitario o a la oficina de farmacia. La fecha de caducidad correspondiente al medicamento reenvasado, con el fin de garantizar su utilización dentro del periodo de estabilidad y seguridad establecidos. El número de unidades incluidas en el pedido realizado al proveedor, empleado para el control administrativo de las adquisiciones de medicamentos."
     ],
     "correcta": 2
   },
@@ -2181,10 +2181,10 @@
     "numero": 199,
     "pregunta": "En el contexto de la organización y funcionamiento de los servicios de farmacia hospitalaria, la gestión y el control de los pedidos de medicamentos constituyen un elemento esencial para asegurar el suministro adecuado de tratamientos a las distintas unidades asistenciales del hospital. En relación con este proceso, ¿a qué contribuye el control adecuado de los pedidos de medicamentos en el ámbito de la farmacia hospitalaria?",
     "respuestas": [
-      "A generar desorganización en el control del stock disponible dentro del servicio de farmacia, dificultando la planificación del suministro de medicamentos.",
-      "A garantizar la continuidad asistencial de las personas pacientes atendidos/as en el hospital, asegurando la disponibilidad de los medicamentos necesarios para los tratamientos prescritos.",
-      "A eliminar la necesidad de mantener registros documentales relacionados con la adquisición y distribución de medicamentos dentro del hospital.",
-      "A reducir los niveles de seguridad en la gestión de los medicamentos al simplificar los procedimientos de control y supervisión."
+      "",
+      "",
+      "",
+      "A generar desorganización en el control del stock disponible dentro del servicio de farmacia, dificultando la planificación del suministro de medicamentos. A garantizar la continuidad asistencial de las personas pacientes atendidos/as en el hospital, asegurando la disponibilidad de los medicamentos necesarios para los tratamientos prescritos. A eliminar la necesidad de mantener registros documentales relacionados con la adquisición y distribución de medicamentos dentro del hospital. A reducir los niveles de seguridad en la gestión de los medicamentos al simplificar los procedimientos de control y supervisión"
     ],
     "correcta": 1
   },
@@ -2192,10 +2192,10 @@
     "numero": 200,
     "pregunta": "En el funcionamiento de la oficina de farmacia, la correcta planificación, gestión y control de los pedidos de medicamentos y productos sanitarios constituye un elemento clave para asegurar el adecuado abastecimiento del establecimiento y el desarrollo eficiente de la actividad asistencial. En relación con este proceso de gestión, ¿qué efecto tiene una adecuada gestión de los pedidos dentro de la organización de la farmacia?",
     "respuestas": [
+      "",
       "Permitir evitar la aplicación de la normativa sanitaria relacionada con la adquisición y control de los medicamentos dentro del establecimiento farmacéutico.",
-      "Optimizar los recursos disponibles y garantizar una adecuada calidad asistencial, asegurando la disponibilidad de los medicamentos necesarios para la atención a las personas usuarias.",
-      "Reducir la necesidad de aplicar controles legales sobre la adquisición, almacenamiento y dispensación de los medicamentos en la oficina de farmacia.",
-      "Eliminar la documentación administrativa relacionada con la gestión de pedidos, simplificando los procedimientos internos de la farmacia."
+      "",
+      "Optimizar los recursos disponibles y garantizar una adecuada calidad asistencial, asegurando la disponibilidad de los medicamentos necesarios para la atención a las personas usuarias. Reducir la necesidad de aplicar controles legales sobre la adquisición, almacenamiento y dispensación de los medicamentos en la oficina de farmacia. Eliminar la documentación administrativa relacionada con la gestión de pedidos, simplificando los procedimientos internos de la farmacia."
     ],
     "correcta": 1
   }
