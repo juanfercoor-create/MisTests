@@ -164,7 +164,7 @@
       "Dentro de un equipo de profesionales, será posible la delegación de actuaciones si las condiciones bajo las que se producirá tal delegación están previamente establecidas dentro del equipo.",
       "La responsabilidad de un equipo de profesionales recaerá en aquellas personas integrantes que hayan adquirido las tareas y funciones que hayan causado la responsabilidad, siempre que las condiciones de la delegación se adecúen a lo establecido."
     ],
-    "correcta": 1,
+    "correcta": 3,
     "anulada": false
   },
   {
@@ -176,7 +176,7 @@
       "La dotación de plazas vinculadas o específicas de investigación, en los establecimientos sanitarios.",
       "El establecimiento de sistemas específicos de formación de personal investigador durante el período inmediatamente anterior a la obtención del título de especialista."
     ],
-    "correcta": 1,
+    "correcta": 3,
     "anulada": false
   },
   {
@@ -260,7 +260,7 @@
       "A recibir el reembolso de los gastos derivados de la asistencia sanitaria del catálogo de prestaciones del Sistema Nacional de Salud que pudiera requerir del servicio de salud de la comunidad autónoma en la que se encuentre desplazado/a.",
       "Ninguna de las respuestas anteriores es correcta."
     ],
-    "correcta": 2,
+    "correcta": 0,
     "anulada": false
   },
   {
@@ -656,7 +656,7 @@
       "Se podrán establecer jornadas ordinarias de hasta 24 horas con carácter excepcional y cuando así lo aconsejen razones organizativas o asistenciales.",
       "El descanso ininterrumpido de 12 horas entre el fin de una jornada y el comienzo de la siguiente solo podrá reducirse en el caso de trabajo a turnos, cuando el personal cambie de equipo y no pueda disfrutar del período de descanso diario entre el final de la jornada de un equipo y el comienzo de la jornada del siguiente."
     ],
-    "correcta": 3,
+    "correcta": 2,
     "anulada": false
   },
   {
@@ -872,7 +872,7 @@
       "Del Parlamento Vasco.",
       "Del Departamento competente en materia de sanidad."
     ],
-    "correcta": 3,
+    "correcta": 0,
     "anulada": false
   },
   {
@@ -1376,7 +1376,7 @@
       "Trimestralmente.",
       "Al menos cada dos meses."
     ],
-    "correcta": 1,
+    "correcta": 3,
     "anulada": false
   },
   {
@@ -1460,7 +1460,7 @@
       "Relaciones asistenciales; participación responsable en la gestión de la propia salud; organización y gestión del sistema sanitario de Euskadi; políticas sanitarias específicas; asistencia sanitaria específica vinculada a la infancia y adolescencia; asistencia sanitaria específica referida a la salud sexual y reproductiva; asistencia sanitaria específica referida a las personas mayores; asistencia sanitaria específica referida al final de la vida; medidas de salud pública; obtención de la Tarjeta Individual Sanitaria.",
       "Relaciones asistenciales; participación responsable en la gestión de la propia salud; organización y gestión del sistema sanitario de Euskadi; políticas sanitarias específicas; asistencia sanitaria específica vinculada a la infancia y adolescencia; asistencia sanitaria específica referida a la salud sexual y reproductiva; asistencia sanitaria específica referida a las personas mayores; asistencia sanitaria específica referida al final de la vida; obtención de la Tarjeta Individual Sanitaria."
     ],
-    "correcta": 0,
+    "correcta": 3,
     "anulada": false
   },
   {
@@ -1484,7 +1484,7 @@
       "A recibir información sobre los recursos sanitarios y socio-sanitarios disponibles, actuaciones y prestaciones del sistema sanitario de Euskadi, su calidad y requisitos de acceso a los mismos, así como los disponibles en otros sistemas sanitarios para facilitar que pueda optar por solicitarlos también fuera del sistema sanitario de Euskadi.",
       "A recibir información sobre los recursos sanitarios y socio-sanitarios disponibles, actuaciones y prestaciones del sistema sanitario de Euskadi, su calidad, coste y requisitos de acceso a los mismos."
     ],
-    "correcta": 1,
+    "correcta": 0,
     "anulada": false
   },
   {
@@ -1556,7 +1556,7 @@
       "Organización y gestión del sistema sanitario de Euskadi; políticas sanitarias específicas; participación responsable en la gestión de la propia salud; relaciones asistenciales en el sistema sanitario de Euskadi; salud pública; y participación en la investigación científica en el sistema sanitario de Euskadi.",
       "Organización y gestión del sistema sanitario de Euskadi; políticas sanitarias específicas; participación responsable en la gestión de la propia salud; relaciones asistenciales en el sistema sanitario de Euskadi; salud pública; participación en la investigación científica en el sistema sanitario de Euskadi; y colaboración con la Administración Sanitaria."
     ],
-    "correcta": 1,
+    "correcta": 0,
     "anulada": false
   },
   {
@@ -1616,7 +1616,7 @@
       "Registrarán todas las solicitudes que se presenten ante ellos, con independencia del centro, servicio o establecimiento sanitario destinatario de las mismas; y todas las reclamaciones, si es que el destinatario de las mismas es el centro, servicio o establecimiento del que dependan.",
       "Registrarán todas las reclamaciones que se presenten ante ellos, con independencia del centro, servicio o establecimiento sanitario destinatario de las mismas; y todas las solicitudes si es que el destinatario de las mismas es el centro, servicio o establecimiento del que dependan."
     ],
-    "correcta": 2,
+    "correcta": 0,
     "anulada": false
   },
   {
@@ -1628,7 +1628,7 @@
       "Por el mismo procedimiento previsto para las reclamaciones contra actuaciones del personal.",
       "El enunciado de la pregunta es incorrecto porque la norma citada no prevé reclamaciones contra las personas usuarias, aunque sí contra el personal profesional sanitario."
     ],
-    "correcta": 2,
+    "correcta": 1,
     "anulada": false
   },
   {
@@ -1760,7 +1760,7 @@
       "Como regla general, cuando la persona paciente sea menor de edad.",
       "Como regla general, cuando la persona paciente sea menor de dieciséis años."
     ],
-    "correcta": 2,
+    "correcta": 3,
     "anulada": false
   },
   {
@@ -1844,7 +1844,7 @@
       "Regular las particularidades en la Comunidad Autónoma del País Vasco del derecho de las personas a la expresión anticipada de sus deseos con respecto a ciertas intervenciones médicas.",
       "Crear el Registro de Voluntades Anticipadas en la Comunidad Autónoma del País Vasco para hacer efectivo el derecho de las personas a la expresión anticipada de sus deseos con respecto a ciertas intervenciones médicas."
     ],
-    "correcta": 1,
+    "correcta": 0,
     "anulada": false
   },
   {
@@ -1892,7 +1892,7 @@
       "Se extingue a partir, bien de la interposición de la demanda de nulidad, separación matrimonial o divorcio, bien de la extinción formalizada de la pareja de hecho o unión libre. Para el mantenimiento de la designación será necesario, en caso de nulidad, separación matrimonial o divorcio, que conste expresamente en el documento de instrucciones previas.",
       "Se extingue bien a partir de la nulidad, separación matrimonial o divorcio, bien de la extinción formalizada de la pareja de hecho o unión libre. Para el mantenimiento de la designación será necesario, en caso de nulidad, separación matrimonial o divorcio, que conste expresamente en el documento de instrucciones previas."
     ],
-    "correcta": 1,
+    "correcta": 0,
     "anulada": false
   },
   {
@@ -2132,7 +2132,7 @@
       "Su nombramiento debe ser ratificado por la Comisión de Justicia del Congreso de los Diputados por mayoría de tres quintos de sus integrantes en primera votación.",
       "Será nombrada por el Parlamento mediante Ley."
     ],
-    "correcta": 3,
+    "correcta": 2,
     "anulada": false
   },
   {
@@ -2348,7 +2348,7 @@
       "Cerca de 200 personas.",
       "Más de 300 personas."
     ],
-    "correcta": 3,
+    "correcta": 2,
     "anulada": false
   },
   {
@@ -3356,7 +3356,7 @@
       "Eutanasia.",
       "Asistencia para morir."
     ],
-    "correcta": 2,
+    "correcta": 3,
     "anulada": false
   },
   {
