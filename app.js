@@ -1,3 +1,21 @@
+
+// Distintivo para preguntas con observaciones (impugnables/nulas)
+(function () {
+    const estilo = document.createElement("style");
+    estilo.textContent = `
+        .distintivo-observacion {
+            display: inline-block; margin-left: 8px; padding: 3px 8px;
+            border-radius: 12px; background: #dff3e4; color: #176b35;
+            font-size: 0.72em; font-weight: 700; vertical-align: middle;
+        }
+        .texto-observacion {
+            margin: 8px 0 12px; padding: 8px 10px; border-left: 4px solid #2e9d55;
+            background: #edf8f0; color: #245c36; border-radius: 4px; font-size: 0.92em;
+        }
+    `;
+    document.head.appendChild(estilo);
+})();
+
 let preguntas = [];
 let preguntasEspecifico = [];
 let examen = [];
@@ -951,8 +969,9 @@ function mostrarPreguntaSimulacro() {
     const numeroActual =
         preguntaActualSimulacro + 1;
 
-    document.getElementById("numeroPregunta").textContent =
-        `Pregunta ${numeroActual} de ${simulacro.length}`;
+    document.getElementById("numeroPregunta").innerHTML =
+        `Pregunta ${numeroActual} de ${simulacro.length}` +
+        (actual.observacion ? ' <span class="distintivo-observacion">REVISAR</span>' : '');
 
     const porcentaje = Math.round(
         (numeroActual / simulacro.length) * 100
@@ -1276,8 +1295,9 @@ function mostrarPregunta() {
     const numeroActual = preguntaActual + 1;
     const totalPreguntas = examen.length;
 
-    document.getElementById("numeroPregunta").textContent =
-        `Pregunta ${numeroActual} de ${totalPreguntas}`;
+    document.getElementById("numeroPregunta").innerHTML =
+        `Pregunta ${numeroActual} de ${totalPreguntas}` +
+        (actual.observacion ? ' <span class="distintivo-observacion">REVISAR</span>' : '');
 
     const porcentaje = Math.round(
         (numeroActual / totalPreguntas) * 100
@@ -1471,7 +1491,10 @@ function siguientePregunta() {
             actual.respuestas[actual.correcta],
 
         correcta:
-            correcta
+            correcta,
+
+        observacion:
+            actual.observacion || ""
 
     });
 
@@ -1587,6 +1610,8 @@ function mostrarCorreccion() {
                         <span>✅</span>
                     </h3>
 
+                    ${resultado.observacion ? `<p class="texto-observacion">⚑ ${resultado.observacion}</p>` : ""}
+
                     <p class="texto-pregunta">
                         ${resultado.pregunta}
                     </p>
@@ -1608,6 +1633,8 @@ function mostrarCorreccion() {
                         Pregunta ${indice + 1}
                         <span>❌</span>
                     </h3>
+
+                    ${resultado.observacion ? `<p class="texto-observacion">⚑ ${resultado.observacion}</p>` : ""}
 
                     <p class="texto-pregunta">
                         ${resultado.pregunta}
@@ -1842,6 +1869,8 @@ function mostrarCorreccionHistorial(indice) {
                         <span>✅</span>
                     </h3>
 
+                    ${resultado.observacion ? `<p class="texto-observacion">⚑ ${resultado.observacion}</p>` : ""}
+
                     <p class="texto-pregunta">
                         ${resultado.pregunta}
                     </p>
@@ -1864,6 +1893,8 @@ function mostrarCorreccionHistorial(indice) {
                         Pregunta ${indicePregunta + 1}
                         <span>❌</span>
                     </h3>
+
+                    ${resultado.observacion ? `<p class="texto-observacion">⚑ ${resultado.observacion}</p>` : ""}
 
                     <p class="texto-pregunta">
                         ${resultado.pregunta}

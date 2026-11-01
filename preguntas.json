@@ -120,6 +120,19 @@
     "anulada": false
   },
   {
+    "id": 11,
+    "pregunta": "Según dispone la Ley 44/2003, de 21 de noviembre, de ordenación de las profesiones sanitarias, cuando una actuación sanitaria se realice por un equipo de profesionales (señálese la respuesta incorrecta):",
+    "respuestas": [
+      "Se articulará, preferentemente, de forma jerarquizada atendiendo a los criterios de conocimientos y competencia y, en su caso, al de titulación del personal profesional que integra el equipo, en función de la actividad concreta a desarrollar, de la confianza y conocimiento recíproco de las capacidades de quienes forman el equipo, y de los principios de accesibilidad y continuidad asistencial de las personas atendidas.",
+      "Se articulará de forma jerarquizada o colegiada, atendiendo a los criterios de conocimientos y competencia y, en su caso, al de titulación del personal profesional que integra el equipo, en función de la actividad concreta a desarrollar, de la confianza y conocimiento recíproco de las capacidades de quienes forman el equipo, y de los principios de accesibilidad y continuidad asistencial de las personas atendidas.",
+      "Se articulará de forma preferentemente colegiada, atendiendo a los criterios de conocimientos y competencia y, en su caso, al de titulación del personal profesional que integra el equipo, en función de la actividad concreta a desarrollar, de la confianza y conocimiento recíproco de las capacidades de quienes forman el equipo, y de los principios de accesibilidad y continuidad asistencial de las personas atendidas.",
+      "Ninguna de las anteriores es correcta."
+    ],
+    "correcta": 0,
+    "anulada": false,
+    "observacion": "Posible impugnación: CCOO advierte que el enunciado pide señalar la incorrecta y considera que podría haber más de una. Se conserva la respuesta A indicada para este banco."
+  },
+  {
     "id": 12,
     "pregunta": "A los efectos de la Ley 44/2003, de 21 de noviembre, de ordenación de las profesiones sanitarias tienen la consideración de funciones de gestión clínica (señálese la respuesta incorrecta):",
     "respuestas": [
@@ -670,6 +683,19 @@
     ],
     "correcta": 2,
     "anulada": false
+  },
+  {
+    "id": 58,
+    "pregunta": "La Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud regula el descanso semanal. Señale la respuesta que no es correcta:",
+    "respuestas": [
+      "El personal tendrá derecho a un período mínimo que siempre será fijo de descanso ininterrumpido con una duración media de 24 horas semanales.",
+      "El período de referencia para el cálculo del período de descanso semanal será de tres meses.",
+      "En el caso de que no se hubiera disfrutado del tiempo mínimo de descanso semanal en el período de tres meses se producirá una compensación a través del régimen de descansos alternativos.",
+      "El período de referencia para el cálculo del período de descanso semanal será de dos meses."
+    ],
+    "correcta": 1,
+    "anulada": false,
+    "observacion": "Impugnable: CCOO contempla B o D como posibles respuestas. Se conserva B según la indicación recibida."
   },
   {
     "id": 59,
@@ -2568,6 +2594,19 @@
     "anulada": false
   },
   {
+    "id": 217,
+    "pregunta": "¿Cuál de los siguientes es un Valor Fundamental explícito del Pacto Vasco de Salud, además de la Universalidad y la Equidad?",
+    "respuestas": [
+      "La Sostenibilidad del sistema.",
+      "La Eficiencia en el gasto.",
+      "La Corresponsabilidad.",
+      "El Plurilingüismo como eje central de la atención."
+    ],
+    "correcta": 2,
+    "anulada": false,
+    "observacion": "Impugnable: CCOO señala C o A como posibles respuestas. Se conserva C según la indicación recibida."
+  },
+  {
     "id": 218,
     "pregunta": "El principio rector de la Salud en Todas las Políticas (STP) en el Pacto Vasco de Salud tiene como alcance la necesidad de:",
     "respuestas": [
@@ -3372,6 +3411,19 @@
     "anulada": false
   },
   {
+    "id": 285,
+    "pregunta": "Según la Ley Orgánica 3/2021, de 24 de marzo, de regulación de la eutanasia, ¿cuál debe ser la periodicidad mínima con la que el personal facultativo responsable debe consultar a la persona paciente, una vez presentada la solicitud, para confirmar si mantiene su deseo?",
+    "respuestas": [
+      "Al menos cada 7 días.",
+      "Al menos cada 15 días, debiendo dejarse constancia en la historia clínica.",
+      "Al menos cada 30 días, si el procedimiento se extiende.",
+      "Una única vez antes de la prestación."
+    ],
+    "correcta": 1,
+    "anulada": false,
+    "observacion": "CCOO la señala como nula. Se mantiene B para practicar el examen, según la plantilla de LAB."
+  },
+  {
     "id": 286,
     "pregunta": "Según la Ley Orgánica 3/2021, de 24 de marzo, de regulación de la eutanasia, ¿qué órgano tiene la función de verificar en cada caso el cumplimiento de los requisitos establecidos en dicha Ley, con carácter previo a la realización de la prestación de ayuda para morir?",
     "respuestas": [
@@ -3418,6 +3470,19 @@
     ],
     "correcta": 1,
     "anulada": false
+  },
+  {
+    "id": 290,
+    "pregunta": "Según la Ley Orgánica 3/2021, de 24 de marzo, de regulación de la eutanasia, ¿cuál es el plazo que tiene la persona facultativa responsable para comunicar la resolución favorable a la Comisión de Garantía y Evaluación para su posterior verificación?",
+    "respuestas": [
+      "Dentro de las 24 horas siguientes a la resolución.",
+      "Dentro del día siguiente natural a la resolución.",
+      "7 días desde la resolución favorable.",
+      "No existe un plazo establecido para esta comunicación."
+    ],
+    "correcta": 3,
+    "anulada": false,
+    "observacion": "CCOO la señala como nula. Se conserva D según la plantilla de LAB indicada."
   },
   {
     "id": 291,
